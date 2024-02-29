@@ -2,93 +2,93 @@
 
 // Quest start
 
-@10000 = ~Dark Tidings
+@10000 = ~Sombres présages
 
-I have been sent to Irphong Island to search for the cause of the lighthouse's extinguished magic fire. A mage named Thalass is waiting for me in the Docks district at the small lighthouse with a crew to embark on the short voyage to the island.~
+J'ai reçu l'ordre de me rendre sur l'île d'Irphong pour découvrir pourquoi le feu magique qui illuminait le phare s'est éteint. Un mage répondant au nom de Thalass m'attend au Sud-Est des Quais à proximité du petit phare avec un équipage prêt à embarquer, le voyage ne sera pas très long.~
 
-@10001 = ~Dark Tidings
+@10001 = ~Sombres présages
 
-Shortly after disembarking on Irphong Island, we were attacked by a group of sea trolls, apparently led by a sea hag. Since all the sailors are dead, I have to look for another way to leave the island. Only an experienced sailor would be able to steer the intact boat through the shallows off the island back to Athkatla. If I could get the beacon working again, however, other ships would perhaps take notice of me and bring me away from the island again. Therefore, I should try hard to get the magical beacon to shine again. But first I have to find out why the light has gone out at all.~ 
+Peu après notre arrivée sur l'île d'Irphong, nous avons été attaqués par un groupe de trolls des mers, dirigés par ce qui semble être une sorcière des mers. Comme l’équipage a été anéanti, je dois trouver un autre moyen de quitter l'île. Seul un marin expérimenté serait capable de diriger le bateau à travers les hauts-fonds de l'île et lui permettre d'atteindre Athkatla sans encombre. Rallumer la balise reste la meilleure solution, d'autres bateaux pourraient me repérer et nous faire quitter l'île. Par conséquent, je dois faire mon possible pour que le phare soit de nouveau opérationnel. En premier lieu, il faut découvrir pourquoi la flamme magique s'est éteinte.~ 
 
-@10002 = ~Dark Tidings
+@10002 = ~Sombres présages
 
-What a success! The magical light of the lighthouse has caused a group of sailors from a passing ship to disembark on the island. They will take me back to Athkatla and are waiting at the boat I arrived with.~
+Quelle chance ! La lumière du phare a attiré l'attention d'un bateau, des marins ont débarqué sur l'île et attendent auprès de notre embarcation, il est temps de rentrer à Athkatla.~
 
-@10003 = ~Dark Tidings
+@10003 = ~Sombres présages
 
-I have returned to Athkatla. Now I should head to the "Sea's Bounty" tavern and claim my well-deserved reward from the mage Thalass.~
+Enfin de retour à Athkatla. Je dois maintenant me rendre à la « Taverne de la Bonté Marine » et réclamer au mage Thalass ma récompense dûment méritée.~
 
-@10004 = ~Dark Tidings
+@10004 = ~Sombres présages
 
-My adventure about Irphong Island ends with the reward I received from the mage Thalass. I will not set foot on a cursed island again so soon!~
+L'aventure sur l'île d'Irphong s'achève avec la récompense offerte par le mage Thalass. Je n'ai pas hâte de remettre les pieds sur une île maudite !~
 
-@10010 = ~Access into the tower
+@10010 = ~Accéder au phare
 
-The entrance to Irphong lighthouse is blocked by numerous barnacles. I have to find something that will allow me to get in, because I can't use magic or weapons to get past.~
+L'entrée du phare d'Irphong est bloquée par de nombreuses balanes. Il faut trouver un outil qui me permette d'entrer, car je ne peux pas utiliser d'armes ou la magie pour franchir ces crustacés.~
 
-@10011 = ~The crab claw
+@10011 = ~La pince de crabe
 
-In the possession of the Siren leader I found the claw of a giant crab. Even though I don't yet know what it's good for, I'm sure that the siren didn't keep such an item for no reason.~
+La cheffe des sirènes avait en sa possession une pince de crabe géant. Même si je ne sais pas encore à quoi cela peut bien servir, la sirène n'a pas gardé un tel objet sans raison valable.~
 
-@10012 = ~Access into the tower
+@10012 = ~Accéder au phare
 
-I think I have something that could help me open the entrance into the tower: The claws of a giant crab.~
+Je crois que j'ai l'outil idéal pour dégager l'entrée de la tour : la pince de crabe géant.~
 
-@12000 = ~The 'other side'
+@12000 = ~De « l'autre côté »
 
-I found a note from a strange cultist inside the lighthouse, mentioning that there was an 'other side' within the tower. The note also mentioned a 'shadow brick' and a ritual. I should keep an eye out for more clues as to what this is all about.~
+À l'intérieur du phare, j'ai trouvé une note écrite par un étrange adepte, elle mentionne un « autre côté » à l'intérieur de la tour, ainsi qu'une « brique d'ombres » et une cérémonie. Je devrais ouvrir l'œil et chercher d'autres indices afin de comprendre de quoi il retourne.~
 
-@12001 = ~The 'other side'
+@12001 = ~De « l'autre côté »
 
-In the basement of the lighthouse I found a brick made of shadow. It seems to belong in some part of a wall.~
+Dans le sous-sol du phare, j'ai trouvé une pierre faite d'obscurité. Elle doit probablement s'imbriquer dans une sorte de mur.~
 
-@12002 = ~The 'other side'
+@12002 = ~De « l'autre côté »
 
-I found a good place to place the shadow brick. This is a good beginning in my search for the 'other side'.~
+J'ai trouvé un emplacement idéal pour la brique d'ombres. C'est un premier pas dans ma quête de « l'autre côté ».~
 
-@12003 = ~The 'other side'
+@12003 = ~De « l'autre côté »
 
-I found an old passageway inside the lighthouse that contains some kind of portal. Might this portal take me to the 'other side'? There is only one way to figure it out.~
+J'ai découvert un ancien passage à l'intérieur du phare et une sorte de portail. Pourrait-il me conduire à cet « autre côté » ? Il n'y a qu'un seul moyen de le savoir.~
 
-@12004 = ~The 'other side'
+@12004 = ~De « l'autre côté »
 
-I stepped through the portal and arrived in a strange, shadowy parallel universe of Irphong Island.~
+J'ai franchi le portail et me suis retrouvé dans une sorte de monde parallèle à l'île d'Irphong, une version alternative étrange et obscure.~
 
-@13000 = ~The Luminous Crystal
+@13000 = ~Le Cristal de lumière
 
-On the top floor of the lighthouse, a device seems to be controlling the illumination of the lighthouse. But the crystal responsible for it is missing. If I can find it, I can reactivate the beacon.~
+Au sommet du phare, j'ai découvert un dispositif qui semble contrôler le faisceau lumineux. Mais le cristal qui l'alimente a disparu. Le retrouver, permettrait de réactiver le phare d'Irphong.~
 
-@13001 = ~The Luminous Crystal
+@13001 = ~Le Cristal de lumière
 
-I found The Luminous Crystal on an old altar in the Plane of Shadows. Now I have to put it back into the socket of the lighthouse on the top floor.~
+J'ai récupéré le Cristal de lumière sur un vieil autel du Plan de l'Ombre. Il faut maintenant retourner au dernier étage du phare et le raccorder au dispositif.~
 
-@13010 = ~The Luminous Crystal
+@13010 = ~Le Cristal de lumière
 
-The Luminous Crystal is back in its intended place. If I wish, I can have a look at the glow of the sea tower from the roof. Hopefully, passing ships will soon take notice of me so that I can leave the island again.~
+Le Cristal de lumière a retrouvé sa place. Il est désormais possible d'admirer la lueur du phare depuis le toit. J'espère que les navires passants au large l'apercevront bientôt et qu'enfin je pourrai quitter cette île.~
 
-@18000 = ~The undead watcher
+@18000 = ~Le spectre du gardien
 
-I met an undead ghost in a small chamber in the north-east part of Irphong Island, who claimed to have been the last lighthouse keeper on the island. He kept repeating that I should meet him 'on the other side' - whatever that means.~ 
+J'ai rencontré un fantôme dans une petite chambre au Nord-Est de l'île, il prétend être le dernier gardien du phare d'Irphong et répète inlassablement que je dois le rejoindre « de l'autre côté »... Cryptique...~ 
 
-@18001 = ~The undead watcher
+@18001 = ~Le spectre du gardien
 
-I met an undead ghost in a dark alternative realm of Irphong Island who claimed to have been the last lighthouse keeper on the island. He asked me to recover the lighthouse's crystal from the temple of an evil god in the east of the area and then to seek it out again.~ 
+J'ai rencontré un fantôme dans cette sombre alternative de l'île d'Irphong. Il m'a chargé de me rendre dans un temple maudit situé à l'Est afin d'y récupérer le Cristal de lumière. Une fois ma mission accomplie je devrais retourner le voir.~ 
 
-@18002 = ~The undead watcher
+@18002 = ~Le spectre du gardien
 
-I met the island's undead lighthouse keeper again in a dark alternative realm on the island of Irphong. He asked me to recover the lighthouse's luminous crystal from the temple of an evil god in the east of the area and then seek it out again.~
+J'ai de nouveau rencontré le fantôme du gardien du phare dans cette sombre alternative de l'île d'Irphong. Il m'a chargé de me rendre dans un temple maudit situé à l'Est afin d'y récupérer le Cristal de lumière. Une fois ma mission accomplie je devrais retourner le voir.~
 
 @18010 = ~The ritual
 
-After recovering the Luminous Crystal from the temple, the undead watcher appeared again. He asked me to perform a ritual in the cellar beneath the lighthouse containing this strange stone in order to stop the black magic emanating from this place. To do this, I also need to use the crystal. Unfortunately, it is uncertain whether the crystal will be destroyed by the ritual. Since the crystal is also used to make the lighthouse glow again, I have to think carefully whether it is worth the risk to me. After all, making the lighthouse glow will be the only way to get other ships to notice me so that I can get off the island again. The ghost also mentioned that I could meet him again on Irphong Island in his chamber in the east of the island, as he exists on both planes at the same time.~ 
+After recovering le Cristal de lumière from the temple, the undead watcher appeared again. He asked me to perform a ritual in the cellar beneath the lighthouse containing this strange stone in order to stop the black magic emanating from this place. To do this, I also need to use the crystal. Unfortunately, it is uncertain whether the crystal will be destroyed by the ritual. Since the crystal is also used to make the lighthouse glow again, I have to think carefully whether it is worth the risk to me. After all, making the lighthouse glow will be the only way to get other ships to notice me so that I can get off the island again. The ghost also mentioned that I could meet him again on Irphong Island in his chamber in the east of the island, as he exists on both planes at the same time.~ 
 
 @18011 = ~The ritual
 
-After I recovered The Luminous Crystal from the temple, an undead watchman appeared who claimed to have been the last lighthouse keeper on the island. He asked me to perform a ritual in the cellar beneath the lighthouse containing this strange stone in order to stop the black magic emanating from this place. To do this, I must also use the crystal. Unfortunately, it is unclear whether the crystal will be destroyed by the ritual. Since the crystal is also used to make the lighthouse glow again, I have to think carefully whether it is worth the risk to me. Because the glow of the lighthouse will be the only way to attract other ships to me so that I can leave the island again. The ghost also mentioned that I could also meet him on Irphong Island in a chamber in the east of the island, as he exists on both planes at the same time.~
+After I recovered le Cristal de lumière from the temple, an undead watchman appeared who claimed to have been the last lighthouse keeper on the island. He asked me to perform a ritual in the cellar beneath the lighthouse containing this strange stone in order to stop the black magic emanating from this place. To do this, I must also use the crystal. Unfortunately, it is unclear whether the crystal will be destroyed by the ritual. Since the crystal is also used to make the lighthouse glow again, I have to think carefully whether it is worth the risk to me. Because the glow of the lighthouse will be the only way to attract other ships to me so that I can leave the island again. The ghost also mentioned that I could also meet him on Irphong Island in a chamber in the east of the island, as he exists on both planes at the same time.~
 
 @18012 = ~The ritual
 
-I have to decide whether to perform the ritual in the basement of the lighthouse with the help of the Luminous Crystal or simply put the Luminous Crystal in the socket and leave the island. Unfortunately, it is uncertain whether the crystal will be destroyed by the ritual. Since the crystal is also used to make the lighthouse glow again, I have to think carefully whether it is worth the risk to me. Because the glow of the lighthouse will be the only way to draw the attention of other ships to me so that I can disappear from the island again.~
+I have to decide whether to perform the ritual in the basement of the lighthouse with the help of le Cristal de lumière or simply put le Cristal de lumière in the socket and leave the island. Unfortunately, it is uncertain whether the crystal will be destroyed by the ritual. Since the crystal is also used to make the lighthouse glow again, I have to think carefully whether it is worth the risk to me. Because the glow of the lighthouse will be the only way to draw the attention of other ships to me so that I can disappear from the island again.~
 
 @18013 = ~The ritual
 
@@ -96,11 +96,11 @@ I have placed the crystal in the socket without completing the ritual in the cel
 
 @18014 = ~The ritual
 
-I have finished the ritual. Hopefully I will be able to recover the Luminous Crystal so that I can put it in the socket of the lighthouse on the top floor.~
+I have finished the ritual. Hopefully I will be able to recover le Cristal de lumière so that I can put it in the socket of the lighthouse on the top floor.~
 
 @18015 = ~The ritual
 
-The Luminous Crystal seems to have survived the finished ritual unscathed. Now I have to put it in the lighthouse socket on the top floor.~
+Le Cristal de lumière seems to have survived the finished ritual unscathed. Now I have to put it in the lighthouse socket on the top floor.~
 
 @18016 = ~The ritual
 

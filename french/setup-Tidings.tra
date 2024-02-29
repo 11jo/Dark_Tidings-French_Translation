@@ -1,24 +1,24 @@
 // setup-tidings tra file
 
 // creatures
-@0 = ~Dark Siren~
-@1 = ~Undead Guardian~
-@2 = ~Mudform~
-@3 = ~Shadow Troll~
-@4 = ~Viper~
-@5 = ~Shadow Elemental~
-@6 = ~Dark Voice~
-@7 = ~[AC#DT21C]~
+@0 = ~Sirène des ténèbres~
+@1 = ~Gardien spectral~
+@2 = ~Gueule d'argile~ // Mudform / Forme boueuse / Gelée boueuse / Vase boueuse / Face de boue / 
+@3 = ~Troll de l'ombre~
+@4 = ~Vipère~
+@5 = ~Élémentaire d'ombres~
+@6 = ~Voix d'outre tombe~
+@7 = ~~ [AC#DT21C]
 @8 = ~Varrdig~
-@9 = ~Earth Weird~
-@10 = ~<PLAYER1>'s Shadow~
-@11 = ~<PLAYER2>'s Shadow~
-@12 = ~<<PLAYER3>'s shadow~
-@13 = ~<<PLAYER4>'s shadow~
-@14 = ~<<PLAYER5>'s shadow~
-@15 = ~<PLAYER6>'s Shadow~
-@16 = ~Shadow shape~
-@17 = ~Aspect of Tharizdun~
+@9 = ~Élémentaire de Terreur~
+@10 = ~Ombre de <PLAYER1>~
+@11 = ~Ombre de <PLAYER2>~
+@12 = ~Ombre de <PLAYER3>~
+@13 = ~Ombre de <PLAYER4>~
+@14 = ~Ombre de <PLAYER5>~
+@15 = ~Ombre de <PLAYER6>~
+@16 = ~Obscurité~ //  Shadow shape // become @17
+@17 = ~L'ombre de Tharizdun~ //  Aspect of Tharizdun
 @18 = ~~ [AC#DTTH1]
 @19 = ~~ [AC#DTTH3]
 @20 = ~~ [AC#DTTH1]
@@ -26,115 +26,115 @@
 @22 = ~~ [AC#DTTH5]
 @23 = ~Jhanex~
 @24 = ~Skara~
-@25 = ~Blackseer Brokus~
-@26 = ~Seaman Ahmer~
-@27 = ~Seaman Bog~
-@28 = ~Death Knight~
-@29 = ~Dire Guard~
+@25 = ~Brokus Sombreaugure~ // Blackseer Brokus
+@26 = ~Ahmer, le vieux loup de mer~
+@27 = ~Bog le marin~
+@28 = ~Chevalier funeste~
+@29 = ~Sinistre gardien~
 @30 = ~Vergol~
-@31 = ~Shadow Mastiff~
+@31 = ~Mastiff de l'ombre~
 @32 = ~Thalass~
-@33 = ~Nightwing~
+@33 = ~Aile de l'obscurité~ // Nightwing
 @34 = ~Gracie~
-@35 = ~Darius~
-@36 = ~Black Molly~
-@37 = ~Water Myrmidon~
-@38 = ~Water Elemental~
-@39 = ~Lesser Water Elemental~
-@40   = ~Oil Ooze~
+@35 = ~Darius~ 
+@36 = ~Molly la ténébreuse~
+@37 = ~Myrmidon aquatique~ // Fantassin aquatique
+@38 = ~Élémentaire d’eau~
+@39 = ~Élémentaire d’eau mineur~
+@40 = ~Vase d'huile~ // Oil Ooze, Gelée huileuse
 
 // spells
-@100 = ~Elemental Domination~
-@101 = ~Cold Aura~
-@102 = ~Horrible sight~
-@103 = ~Protection from Good~
-@104 = ~Scary apparition~
-@105 = ~Deadly stare~
-@106 = ~Fog cloud~
-@107 = ~Hidden in the mist~
-@108 = ~Fog cloud 
-(Alteration)
+@100 = ~Domination élémentaire~ // Elemental Domination
+@101 = ~Aura glacée~ // Cold Aura
+@102 = ~Vision horrifique~ // Horrible sight
+@103 = ~Protection contre le bien~
+@104 = ~Effrayante apparition~ // Scary apparition, Apparition effrayante
+@105 = ~Regard de la mort qui tue~ // Deadly stare
+@106 = ~Nuage de brouillard~ // Fog cloud
+@107 = ~Dissimulé dans la brume~ // Hidden in the mist
+@108 = ~Nuage de brouillard
+(Altération)
 
-Level: 2
-Range: 90 ft.
-Duration: 4 rounds
-Casting Time: 2
-Area of Effect: 15-ft. radius
-Saving Throw: None
+Niveau : 2
+Portée : 12 mètres.
+Durée : 4 rounds
+Temps d'incantation : 2
+Zone d'effet : rayon de 4,5 mètres
+Jet de sauvegarde : Aucun
 
-This spell creates a dense mist similar in appearance to the 5th level spell "Cloudkill". However, this fog forms a a billowing mass of ghastly, yellowish-green vapours, measuring 40 feet x 20 feet x 20 feet, that are non-toxic but obscure vision. Creatures in the fog are blind for the duration of the effect. In addition, there is a 50% chance that creatures in the mist will be undetectable and become invisible for one round.~
+Ce sort crée un brouillard dense formé d'une masse de vapeur non toxique aux volutes jaunâtres, elle n'est pas toxique mais obscurcie la vue. Les créatures présentes dans le brouillard sont aveuglées tant que celui-ci persiste. En outre, il y a 50 % de chances que les créatures se trouvant dans le brouillard deviennent indétectables et invisibles pendant un round.~
 @109 = ~Explosion~
-@110 = ~Dark Aura~
-@111 = ~Siren Song~
-@112 = ~Howl~
-@113 = ~Summon Water Elemental~
-@114  = ~Protection from poison~
-@115  = ~Protection from poison 
+@110 = ~Aura obscure~ // Dark Aura
+@111 = ~Chant des sirènes~ // Siren Song
+@112 = ~Hurlement~ // Howl
+@113 = ~Convocation d'élémentaire d'eau~ // Summon Water Elemental
+@114  = ~Protection contre les poisons~
+@115  = ~Protection contre les poisons 
 (Abjuration)
 
-Level: 2
-Range: Creature touched
-Duration: 10 rounds 
-Casting Time: 3
-Area of Effect: Creature touched
-Saving Throw: None
+Niveau : 2
+Portée : contact
+Durée : 10 rounds 
+Temps d'incantation : 3
+Zone d'effet : 1 créature
+Jet de sauvegarde : Aucun
 
-By using this spell, the chosen creature gains immunity to poisons and venoms administered via contact with the skin, ingestion, sting, bite or weapon. Toxins of other types continue to affect the creature normally. Any poisons already in the body when the spell is cast are also unaffected by this spell.~
+Ce sortilège permet à la créature choisie d'être immunisée contre les poisons et les venins provoqués par contact avec la peau que ce soit par absorption, par piqûre, par morsure ou par l'intermédiaire d'une arme. Les toxines de nature différente continueront d'affecter la créature normalement et les poisons déjà actifs ne seront pas affectés.~
 
 // Script strings
-@1000 = ~The city is looking for capable adventurers who are seaworthy enough to sail out to sea!~
-@1001 = ~Aren't there any adventurers in this tavern to do a job for the city?~
-@1002 = ~Uses an item~
-@1003 = ~Shadow control~
-@1004 = ~This barrel contained flammable oil. It was apparently used in the past to light a signal fire on the roof. You can examine the container more closely if you like.~
-@1005 = ~You put some oil in a bottle.~
-@1006 = ~The barrel is empty now.~
-@1007 = ~The barrel is almost empty. There is no way you can light a beacon with it. However, the combustible oil could still be helpful in combat. You could fill the oil into a bottle and take it with you if you like.~
-@1008 = ~The shadow substance disintegrates into nothingness between your hands.~ [EFF_E03]
-@1009 = ~The brick seems to fit perfectly into the foundation.~
-@1010 = ~This part of the wall contains a strange symbol which suddenly seems to move a little. With your bare eyes, however, it is difficult to focus on the spot.~
+@1000 = ~La ville est en quête d'aventuriers capables et prêts à prendre la mer.~
+@1001 = ~N'y a-t-il aucun aventurier dans cette taverne prêt à accomplir une mission pour notre ville ?~
+@1002 = ~Utilise un objet~ // Uses an item
+@1003 = ~Contrôle de l'ombre~ // Shadow control
+@1004 = ~Ce tonneau contient de l'huile inflammable. Il était apparemment utilisé dans le passé pour alimenter le signal du phare. Vous pouvez l'examiner de plus près si vous le souhaitez.~
+@1005 = ~Vous mettez un peu d'huile dans une fiole.~
+@1006 = ~Le tonneau est désormais complètement vide.~
+@1007 = ~Le tonneau est pratiquement vide. Il est impossible de l'utiliser pour allumer le signal. Cependant, cette huile inflammable peut toujours être utile au cours d'un combat. Vous pouvez la transvaser dans une fiole et l'emporter avec vous, si vous le souhaitez.~
+@1008 = ~Cette substance est composée d'ombres et se désagrège entre vos mains.~ [EFF_E03]
+@1009 = ~La pierre semble s'imbriquer parfaitement.~ // See ACDT21.tra
+@1010 = ~Cette partie du mur comporte un symbole étrange qui semble se déplacer légèrement. À l'œil nu, il est cependant difficile de se focaliser dessus.~
 
-@1011 = ~<PLAYER1>'s shadow~
-@1012 = ~<PLAYER2>'s shadow~
-@1013 = ~<PLAYER3>'s shadow~
-@1014 = ~<PLAYER4>'s shadow~
-@1015 = ~<PLAYER5>'s shadow~
-@1016 = ~<PLAYER6>'s shadow~
+@1011 = ~Ombre de <PLAYER1>~
+@1012 = ~Ombre de <PLAYER2>~
+@1013 = ~Ombre de <PLAYER3>~
+@1014 = ~Ombre de <PLAYER4>~
+@1015 = ~Ombre de <PLAYER5>~
+@1016 = ~Ombre de <PLAYER6>~
 
-@1017 = ~The entrance to the tower is blocked by countless barnacles~
-@1018 = ~The more you try to remove the barnacles by force, the more seem to follow. Perhaps there is another tool to clear the entrance.~ [AC#DT01B]
-@1019 = ~The crab claw briefly glows with a magical light, the cohesion of the barnacles collapsing to reveal the entrance.~ [AC#DT01C]
-@1020 = ~The entrance into the tower is blocked by countless barnacles. The crab claw in your inventory suddenly begins to move - as if to cut the entrance free.~ [AC#TTC] 
+@1017 = ~L'entrée de la tour est bloquée par de nombreuses balanes.~
+@1018 = ~Bien que vous vous efforciez d'enlever les balanes, elles semblent de plus en plus nombreuses. Il existe peut-être un outil pour dégager l'entrée.~ [AC#DT01B]
+@1019 = ~La pince de crabe rayonne brièvement d'une lueur magique, les balanes se relâchent et s'effondrent, révélant l'entrée.~ [AC#DT01C]
+@1020 = ~L'entrée de la tour est bloquée par de nombreuses balanes. La pince de crabe en votre possession s'agite soudain, comme si elle cherchait à se frayer un chemin.~ [AC#TTC]
 
 // Strings in Area ACDT21
 // Earth Info Trigger:
-@1021 = ~A lot of mud and earth is spread around this runestone. As a druid, you realise that the earth is not from this place and emits an unnatural aura.~
-@1022 = ~A lot of mud and earth lies scattered around this runestone. You realise that the earth is not from this place.~
-@1023 = ~A lot of mud and earth lies spread around this runestone.~
+@1021 = ~Une grande quantité de boue et de terre s'accumule autour de cette pierre runique. En votre qualité de druide, vous comprenez que cette terre n'est pas d'ici et qu'elle émet une aura surnaturelle.~
+@1022 = ~Une grande quantité de boue et de terre s'accumule autour de cette pierre runique. Vous réalisez que la terre en question ne vient pas d'ici.~
+@1023 = ~Une grande quantité de boue et de terre s'accumule autour de cette pierre runique.~
 
 // Air Info Trigger:
-@1024 = ~A lot of air is streaming through from these strange rock formations into the chamber. The air seems very pure and concentrated but smells of rot and sulphur every now and then.~
+@1024 = ~Un courant d'air impressionnant circule dans ces étranges formations rocheuses et pénètre dans la chambre. L'air semble extrêmement pur et très concentré, toutefois des émanations de pourriture et de soufre s'en dégagent par intermittence.~
 
 // Water Info Trigger
-@1025 = ~Water from an unknown source constantly seeps around this runestone. The water has a strange colour and smells polluted.~
+@1025 = ~L'eau qui ruisselle autour de cette pierre runique à une couleur étrange et une odeur viciée.~
 
 // Fire Info Trigger
-@1026 = ~An unnatural heat emanates from this runestone.~
+@1026 = ~Une chaleur anormale émane de cette pierre runique.~
 
 // Runestone Info Trigger
-@1030 = ~There's a long inscription in common language carved on this runestone. If you wish, you can read it.~
-@1031 = ~"And the Elder Elemental Eye gave birth to four children.
-The first wanted to devour everything.
-To extinguish it he created the second, but this could not be shaped. 
-So he created the third, but it could not move. 
-Finally, he created the fourth, but it evaporated into nothingness. 
-Then the Dark God realised the imperfection of all things and swore to restore everything to its original state of total darkness."~
-@1032 = ~The runestone has been damaged by the burst of magical energy to such an extent that the inscription can no longer be deciphered.~
+@1030 = ~Une citation en langue commune est gravée sur cette pierre runique. Vous pouvez la lire si vous le souhaitez.~
+@1031 = ~« L'Œil élémentaire ancestral engendra quatre enfants.
+Le premier voulait dévorer tout ce qui existe.
+Pour l'éradiquer, il façonna le second, mais sans parvenir à lui donner forme. 
+Il enfanta donc une troisième fois, mais l'être fut incapable de se mouvoir. 
+Enfin, il donna naissance au quatrième, mais celui-ci se volatilisa  dans le néant. 
+Alors le Sombre Seigneur réalisa l'imperfection de toutes choses et se promit de restaurer la création à son état d'origine... Les ténèbres. »~
+@1032 = ~La pierre runique a tellement été endommagée par l'explosion d'énergie magique que son inscription est désormais indéchiffrable.~
 
 // Shadowstone Info Trigger
-@1035 = ~An unholy aura emanates from this strange stone. An incomprehensible muttering and whispering can be heard nearby, and the light seems to refract at its edges into the deepest black.~
-@1036 = ~Disabling the four runes, the chamber grows cooler and more uncomfortable. A noticeable whisper now emanates from the stone.~
-@1037 = ~An ominous aura continues to emanate from this strange stone.~ 
+@1035 = ~Cette curieuse pierre irradie d'une aura maléfiques, lorsque l'on s'en approche d'étranges murmures et de sinistres chuchotements se font entendre tandis que la lumière environnante semble être engloutie, sa surface ne reflétant que le noir le plus profond.~ // TO SEE
+@1036 = ~Une fois les quatre runes neutralisées, un froid glacial et une atmosphère pesante s'installent dans la chambre. Les chuchotements qui émanent de la pierre sont désormais plus que perceptible.~
+@1037 = ~L'aura de cette pierre si singulière demeure des plus inquiétantes.~ 
 
 /// Fire Sigil Tigger
 @1040 = ~A strange sign is attached to this stone. It radiates great heat. You feel as if you can touch the sign to change its state.~
@@ -170,19 +170,19 @@ Then the Dark God realised the imperfection of all things and swore to restore e
 
 @1090 = ~You spot a socket amidst this crystal apparatus, but it's empty. Most likely an object has to be inserted there to activate the beacon.~
 @1091 = ~None of the items in your inventory seem to be suitable to light the beacon.~
-@1092 = ~You place the Luminous Crystal in the socket, and through its various cuts the light is reflected a thousand times and projected upwards into the open air. The big crystal on top of the roof should now shine again in bright light visible from afar.~
+@1092 = ~You place le Cristal de lumière in the socket, and through its various cuts the light is reflected a thousand times and projected upwards into the open air. The big crystal on top of the roof should now shine again in bright light visible from afar.~
 @1093 = ~If you put the crystal into the socket again, it will not be possible for you to remove it again. You should think carefully about what to do next.~
 
 @1098 = ~Thick swathes of darkest shadow block your view. If the exit is somewhere here, you can't see it at the moment.~
 
 //cutscene in ACDT01
-@1100 = ~Look! There's a little girl!~
-@1101 = ~What the ...!~
-@1102 = ~By Baelros! It's a sea hag!~
+@1100 = ~Regardez ! Une enfant !~
+@1101 = ~Qu'est ce que ...!~
+@1102 = ~Par Baelros ! C'est une sorcière des mers !~
 
 // Oil barrels in ACDT15
 
-@1504 = ~This barrel contained flammable oil. It was apparently used in the past to light a signal fire. You can examine the container more closely if you like.~
-@1505 = ~You put some oil in a bottle.~
-@1506 = ~The barrel is empty now.~
-@1507 = ~The barrel is almost empty. There is no way you can light a signal fire with it. However, the combustible oil could still be helpful in combat.~
+@1504 = ~Ce tonneau contient de l'huile inflammable. Il était apparemment utilisé dans le passé pour alimenter le signal du phare. Vous pouvez l'examiner de plus près si vous le souhaitez.~
+@1505 = ~Vous mettez un peu d'huile dans une fiole.~
+@1506 = ~Le tonneau est désormais complètement vide.~
+@1507 = ~Le tonneau est pratiquement vide. Il est impossible de l'utiliser pour allumer le signal. Cependant, cette huile inflammable peut toujours être utile au cours d'un combat.~
