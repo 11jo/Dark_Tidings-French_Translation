@@ -36,15 +36,15 @@ Je crois que j'ai l'outil idéal pour dégager l'entrée de la tour : la pince de c
 
 @12000 = ~De « l'autre côté »
 
-À l'intérieur du phare, j'ai trouvé une note écrite par un étrange adepte, elle mentionne un « autre côté » à l'intérieur de la tour, ainsi qu'une « brique d'ombres » et une cérémonie. Je devrais ouvrir l'œil et chercher d'autres indices afin de comprendre de quoi il retourne.~
+À l'intérieur du phare, j'ai trouvé une note écrite par un étrange adepte, elle mentionne un « autre côté » à l'intérieur de la tour, ainsi qu'une « brique d'ombres » et un rituel. Je devrais ouvrir l'œil et chercher d'autres indices afin de comprendre de quoi il retourne.~
 
 @12001 = ~De « l'autre côté »
 
-Dans le sous-sol du phare, j'ai trouvé une pierre faite d'obscurité. Elle doit probablement s'imbriquer dans une sorte de mur.~
+Dans le sous-sol du phare, j'ai trouvé une pierre faite d'obscurité. Elle doit probablement s'imbriquer dans une espèce de mur.~
 
 @12002 = ~De « l'autre côté »
 
-J'ai trouvé un emplacement idéal pour la brique d'ombres. C'est un premier pas dans ma quête de « l'autre côté ».~
+J'ai trouvé l'emplacement idéal pour la brique d'ombres. C'est un premier pas dans ma quête de « l'autre côté ».~
 
 @12003 = ~De « l'autre côté »
 
@@ -52,11 +52,11 @@ J'ai découvert un ancien passage à l'intérieur du phare et une sorte de portail.
 
 @12004 = ~De « l'autre côté »
 
-J'ai franchi le portail et me suis retrouvé dans une sorte de monde parallèle à l'île d'Irphong, une version alternative étrange et obscure.~
+J'ai franchi le portail et me suis retrouvé dans une espèce de monde parallèle à l'île d'Irphong, une version alternative étrange et obscure.~
 
 @13000 = ~Le Cristal de lumière
 
-Au sommet du phare, j'ai découvert un dispositif qui semble contrôler le faisceau lumineux. Mais le cristal qui l'alimente a disparu. Le retrouver, permettrait de réactiver le phare d'Irphong.~
+Au sommet du phare, j'ai découvert un dispositif qui semble contrôler le faisceau lumineux. Mais le cristal qui l'alimente a disparu. Le retrouver permettrait de réactiver le phare d'Irphong.~
 
 @13001 = ~Le Cristal de lumière
 
@@ -64,7 +64,7 @@ J'ai récupéré le Cristal de lumière sur un vieil autel du Plan de l'Ombre. Il fa
 
 @13010 = ~Le Cristal de lumière
 
-Le Cristal de lumière a retrouvé sa place. Il est désormais possible d'admirer la lueur du phare depuis le toit. J'espère que les navires passants au large l'apercevront bientôt et qu'enfin je pourrai quitter cette île.~
+Le Cristal de lumière a retrouvé sa place. Il est désormais possible d'admirer la lumière du phare depuis le toit. J'espère que les navires passants au large l'apercevront bientôt et qu'enfin je pourrai quitter cette île.~
 
 @18000 = ~Le spectre du gardien
 
@@ -78,34 +78,32 @@ J'ai rencontré un fantôme dans cette sombre alternative de l'île d'Irphong. Il m
 
 J'ai de nouveau rencontré le fantôme du gardien du phare dans cette sombre alternative de l'île d'Irphong. Il m'a chargé de me rendre dans un temple maudit situé à l'Est afin d'y récupérer le Cristal de lumière. Une fois ma mission accomplie je devrais retourner le voir.~
 
-@18010 = ~The ritual
+@18010 = ~Le rituel
 
-After recovering le Cristal de lumière from the temple, the undead watcher appeared again. He asked me to perform a ritual in the cellar beneath the lighthouse containing this strange stone in order to stop the black magic emanating from this place. To do this, I also need to use the crystal. Unfortunately, it is uncertain whether the crystal will be destroyed by the ritual. Since the crystal is also used to make the lighthouse glow again, I have to think carefully whether it is worth the risk to me. After all, making the lighthouse glow will be the only way to get other ships to notice me so that I can get off the island again. The ghost also mentioned that I could meet him again on Irphong Island in his chamber in the east of the island, as he exists on both planes at the same time.~ 
+Après que j'ai récupéré le Cristal le Cristal de lumière dans le temple, le gardien mort-vivant s'est à nouveau manifesté. Il m'a demandé d'effectuer un rituel dans la cave sous le phare qui contient cette pierre étrange afin de stopper la magie noire émanant de ce lieu. Pour ce faire, j'ai également besoin d'utiliser le cristal. Malheureusement, il n'est pas certain que le cristal ne soit pas détruit par le rituel. Comme le cristal peut également être utilisé pour  faire briller le phare à nouveau, je dois bien réfléchir pour savoir si le jeu en vaut la chandelle. Après tout, la lumière du phare sera le seul moyen pour que d'autres navires me remarquent et que je puisse quitter l'île. Le fantôme m'a également indiqué que je pourrais le retrouver sur l'île d'Irphong, dans sa chambre située à l'est de l'île, car il existe simultanément sur les deux plans.~ 
+@18011 = ~Le rituel
 
-@18011 = ~The ritual
+Après que j'ai récupéré le Cristal le Cristal de lumière dans le temple, un gardien mort-vivant est apparu, prétendant être le dernier gardien du phare de l'île. Il m'a demandé d'effectuer un rituel dans la cave sous le phare qui contient cette pierre étrange afin de stopper la magie noire émanant de ce lieu. Pour ce faire, j'ai également besoin d'utiliser le cristal. Malheureusement, il n'est pas certain que le cristal ne soit pas détruit par le rituel. Comme le cristal peut également être utilisé pour faire briller le phare à nouveau, je dois bien réfléchir pour savoir si le jeu en vaut la chandelle. Après tout, la lumière du phare sera le seul moyen pour que d'autres navires me remarquent et que je puisse quitter l'île. Le fantôme m'a également indiqué que je pourrais le retrouver sur l'île d'Irphong, dans sa chambre située à l'est de l'île, car il existe simultanément sur les deux plans.~ 
 
-After I recovered le Cristal de lumière from the temple, an undead watchman appeared who claimed to have been the last lighthouse keeper on the island. He asked me to perform a ritual in the cellar beneath the lighthouse containing this strange stone in order to stop the black magic emanating from this place. To do this, I must also use the crystal. Unfortunately, it is unclear whether the crystal will be destroyed by the ritual. Since the crystal is also used to make the lighthouse glow again, I have to think carefully whether it is worth the risk to me. Because the glow of the lighthouse will be the only way to attract other ships to me so that I can leave the island again. The ghost also mentioned that I could also meet him on Irphong Island in a chamber in the east of the island, as he exists on both planes at the same time.~
+@18012 = ~Le rituel
 
-@18012 = ~The ritual
+Je dois décider si je dois effectuer le rituel dans la cave sous le phare avec l'aide du Cristal de lumière ou si je dois simplement mettre le Cristal de lumière dans son socle et quitter l'île. Malheureusement, il n'est pas certain que le cristal ne soit pas détruit par le rituel. Comme le cristal peut également être utilisé pour faire briller le phare à nouveau, je dois réfléchir attentivement pour savoir si le jeu en vaut la chandelle. Car la lumière du phare sera le seul moyen pour que d'autres navires me remarquent et que je puisse quitter l'île~ 
 
-I have to decide whether to perform the ritual in the basement of the lighthouse with the help of le Cristal de lumière or simply put le Cristal de lumière in the socket and leave the island. Unfortunately, it is uncertain whether the crystal will be destroyed by the ritual. Since the crystal is also used to make the lighthouse glow again, I have to think carefully whether it is worth the risk to me. Because the glow of the lighthouse will be the only way to draw the attention of other ships to me so that I can disappear from the island again.~
+@18013 = ~Le rituel
 
-@18013 = ~The ritual
+J'ai placé le cristal dans le socle sans avoir accompli le rituel dans la cave. Comme le cristal ne peut plus être retiré, je ne peux plus accomplir le rituel. Je devrais chercher un moyen de quitter l'île.~ 
 
-I have placed the crystal in the socket without completing the ritual in the cellar. Since the crystal can no longer be removed, I am unable to perform the ritual. I should look for a way to get off the island.~
+@18014 = ~Le rituel
 
-@18014 = ~The ritual
+J'ai achevé le rituel. J'espère pouvoir récupérer le Cristal de lumière pour le mettre dans dans le socle du phare au dernier étage.~
 
-I have finished the ritual. Hopefully I will be able to recover le Cristal de lumière so that I can put it in the socket of the lighthouse on the top floor.~
+@18015 = ~Le rituel
 
-@18015 = ~The ritual
+Le Cristal de lumière semble avoir survécu indemne à la fin du rituel. Je dois maintenant le mettre dans le socle du phare, au dernier étage.~
 
-Le Cristal de lumière seems to have survived the finished ritual unscathed. Now I have to put it in the lighthouse socket on the top floor.~
+@18016 = ~Le rituel
 
-@18016 = ~The ritual
-
-I was able to both shut down the unholy site beneath the lighthouse and put the crystal back in the lighthouse's socket. With this, the dark shadows hanging over the island should be gone once and for all.~
-
+J'ai pu fermer le site impie sous le phare et remettre le cristal dans le socle du phare. Grâce à cela, les ombres noires qui planent sur l'île devraient disparaître une bonne fois pour toutes.
 
  
 

@@ -137,43 +137,43 @@ Alors le Sombre Seigneur réalisa l'imperfection de toutes choses et se promit de
 @1037 = ~L'aura de cette pierre si singulière demeure des plus inquiétantes.~ 
 
 /// Fire Sigil Tigger
-@1040 = ~A strange sign is attached to this stone. It radiates great heat. You feel as if you can touch the sign to change its state.~
-@1041 = ~You touch the mark carefully with your hand. Scorching heat flows through you, but then the rune is extinguished and has grown cold.~
-@1042 = ~The rune is extinguished and seems to have no function anymore.~
+@1040 = ~Un glyphe bizarre est attaché à cette pierre. Il dégage une forte chaleur. Vous avez l'impression que vous pouvez toucher le glyphe pour en changer l'état.~
+@1041 = ~Vous touchez prudemment le glyphe. Une chaleur brûlante vous traverse, puis la pierre runique s'éteint et se refroidit.~
+@1042 = ~La pierre runique est froide et semble ne plus avoir de fonction.~
 
 // Water Sigil Tigger
-@1050 = ~A strange sign is attached to this stone. It looks very damp. You feel as if you can touch the sign to change its condition.~
-@1051 = ~As you touch the sign, a humid breeze passes through the room. It seems as if you have to touch the signs in a certain order - and you have made the wrong choice....~
-@1052 = ~You touch the sign carefully with your hand. The water that was wetting the rune disappears. You seem to have deactivated the sign.~
-@1053 = ~The rune has dried and no longer seems to have any function.~
+@1050 = ~Un glyphe bizarre est attaché à cette pierre. Il semble très humide. Vous avez l'impression que vous pouvez toucher le glyphe pour en changer l'état.~
+@1051 = ~Lorsque vous touchez le glyphe, une brise humide traverse la pièce. Il semble que vous deviez toucher les signes dans un certain ordre - et vous avez fait le mauvais choix....~
+@1052 = ~Vous touchez prudemment le glyphe. L'eau qui imprégnait la pierre runique disparaît. Vous semblez avoir désactivé le glyphe.~
+@1053 = ~La pierre runique est sèche et semble ne plus avoir de fonction.~
 
 // Earth Sigil Trigger
-@1060 = ~A sign in the shape of a jagged spiral is carved into this stone. It is covered with mud that glows strangely. You feel as if you can touch the mark to change its state.~
-@1061 = ~As you touch the sign, a strong vibration goes through the room. It seems as if you have to touch the signs in a certain order - and you have made the wrong choice....~
-@1062 = ~You touch the sign carefully with your hand. The mud that was moistening the rune disappears. You seem to have deactivated the mark.~
-@1063 = ~The rune is cleaned and no longer seems to have any function.~
+@1060 = ~Un glyphe en forme de spirale dentelée est gravé sur cette pierre. Elle est recouverte de boue étonnamment brillante. Vous avez l'impression que vous pouvez toucher le glyphe pour en changer l'état.~
+@1061 = ~Lorsque vous touchez le glyphe, une forte vibration se répand dans la pièce. Il semble que vous deviez toucher les signes dans un certain ordre - et vous avez fait le mauvais choix....~
+@1062 = ~Vous touchez prudemment le glyphe. La boue qui recouvrait la pierre runique disparaît. Vous semblez avoir désactivé le glyphe.~
+@1063 = ~La pierre runique est propre et ne semble plus avoir de fonction.~
 
 // Air Sigil Trigger
-@1070 = ~A sign in the form of a jagged spiral is carved into this stone. You feel as if you can touch the sign to change its state.~
-@1071 = ~As you touch the mark, yellowish poisonous gases gush out of the underground. It seems that you have to touch the signs in a certain order - and you have made the wrong choice...~
-@1072 = ~You touch the sign carefully with your hand. You seem to have deactivated the sign.~
-@1073 = ~The rune is deactivated and seems to have no function any more.~
+@1070 = ~Un glyphe en forme de spirale dentelée est gravé sur cette pierre. . Vous avez l'impression que vous pouvez toucher le glyphe pour en changer l'état.~
+@1071 = ~Lorsque vous touchez le glyphes, des gaz toxiques jaunâtres jaillissent du sol. Il semble que vous deviez toucher les signes dans un certain ordre - et vous avez fait le mauvais choix...~
+@1072 = ~Vous touchez prudemment le glyphe. Vous semblez avoir désactivé le glyphe.~
+@1073 = ~La pierre runique est inactive et ne semble plus avoir de fonction.~
 
 // Ritual in Area ACDT22
-@1080 = ~You have cast the first spell of the ritual.~
-@1081 = ~You have cast the second spell of the ritual.~
-@1082 = ~You have cast the third spell of the ritual.~
+@1080 = ~Vous avez lancé le premier sort du rituel.~
+@1081 = ~Vous avez lancé le deuxième sort du rituel.~
+@1082 = ~Vous avez lancé le troisième sort du rituel.~
 
-@1085 = ~The magic you cast discharges with a blast and the stone shatters into a thousand pieces. Then suddenly there is silence. The chamber seems much brighter now.~
+@1085 = ~La magie que vous avez lancée se décharge avec une explosion et la pierre se brise en mille morceaux. Soudain, le silence se fait. La chambre semble beaucoup plus lumineuse à présent.~
 
 // Crystal chamber ACDT13
 
-@1090 = ~You spot a socket amidst this crystal apparatus, but it's empty. Most likely an object has to be inserted there to activate the beacon.~
-@1091 = ~None of the items in your inventory seem to be suitable to light the beacon.~
-@1092 = ~You place le Cristal de lumière in the socket, and through its various cuts the light is reflected a thousand times and projected upwards into the open air. The big crystal on top of the roof should now shine again in bright light visible from afar.~
-@1093 = ~If you put the crystal into the socket again, it will not be possible for you to remove it again. You should think carefully about what to do next.~
+@1090 = ~Vous repérez un socle au milieu de cet appareil à cristal, mais il est vide. Il est probable qu'un objet doive y être inséré pour activer la balise.~
+@1091 = ~Aucun des objets de votre inventaire ne semble convenir pour allumer la balise.~
+@1092 = ~Vous placez le Cristal de lumière sur le socle, et à travers les différentes coupures, la lumière est réfléchie mille fois et projetée vers le haut, à l'air libre. Le grand cristal au sommet du toit devrait maintenant briller à nouveau d'une lumière éclatante visible de loin.~
+@1093 = ~Si vous remettez le cristal sur son socle, vous ne pourrez plus le retirer. Réfléchissez bien à ce que vous allez faire.~
 
-@1098 = ~Thick swathes of darkest shadow block your view. If the exit is somewhere here, you can't see it at the moment.~
+@1098 = ~D'épaisses masses de ténèbres vous bloquent la vue. Si la sortie se trouve quelque part là, vous ne pouvez pas la voir pour le moment.~
 
 //cutscene in ACDT01
 @1100 = ~Regardez ! Une enfant !~

@@ -1,56 +1,56 @@
-@0 = ~Who's that stumbling out of the old tower? Who are you and what are you doing here on this god-forsaken island?~ // Jhanex
-@1 = ~My name is <CHARNAME>, and I've restored the light of the lighthouse.~ // Charname
-@2 = ~I might ask you the same question! Who are you and what are *you* doing on this island?~ // Charname
-@3 = ~I am Jhanex, an amnish sailor and first mate of the "Blue Chimera", a merchant ship under the flag of Athkatla. We saw the light of the tower shining again from the distance. The captain of our ship dropped us off here to check on things.~ // Jhanex
-@4 = ~*You* did that? I don't know what kind of effort you went through to repair this light, but now that everything is right again, we should get off this island as quickly as possible. We found a ready moored ship a little west of here, on the shore.~ // Jhanex
-@5 = ~That was the ship we came here on.~ // Charname
-@6 = ~*You* did that? We saw the light of the tower shining again from a distance. The captain of our ship dropped us off here to check on things. I am Jhanex, an amnish sailor and first mate of the "Blue Chimera", a merchant ship under the flag of Athkatla.~ // Jhanex
-@7 = ~We should now find a way off the island back to the mainland.~ // Charname
-@8 = ~This shouldn't be too difficult. We found a ready-moored ship a little to the west of here on the shore!~ // Jhanex
-@9 = ~By Umberlee! What happened to the crew?~ // Jhanex
-@10 = ~They were all killed.~ // Charname
-@11 = ~That's sad to hear. But from what people say about the island, I'm not surprised. We will cherish the memory of the brave sailors who brought you here!~ // Jhanex
-@12 = ~Allow me and my men to go to this ship and get everything prepared. Meet me at the dock as soon as you are ready for passage, but please hurry, for I can't wait to get off this island!~ // Jhanex
-@13 = ~All right. We'll find you down by the ship.~ // Charname
-@14 = ~Come on, men! Let's have a quick look around here and then prepare the abandoned ship for the passage to Athkatla!~ // Jhanex
+@0 = ~Qui est-ce qui titube hors de la vieille tour ? Qui êtes-vous et que faites-vous sur cette île perdue ?~ // Jhanex
+@1 = ~Je m'appelle <CHARNAME>, et j'ai rétabli la lumière du phare.~ // Charname
+@2 = ~Je pourrais vous poser la même question ! Qui êtes-vous et que faites-vous sur cette île ?~ // Charname
+@3 = ~Je suis Jhanex, marin amnien et second de la " Chimère Bleue ", un navire marchand battant pavillon d'Athkatla. Nous avons vu la lumière de la tour briller de nouveau au loin. Le capitaine de notre navire nous a déposés ici pour prendre des nouvelles.~ // Jhanex
+@4 = ~C'est *vous* qui avez fait ça ? Je ne sais pas quels efforts vous avez déployés pour réparer cette lumière, mais maintenant que tout est rentré dans l'ordre, nous devrions quitter cette île le plus vite possible. Nous avons trouvé un bateau déjà amarré un peu à l'ouest d'ici, sur le rivage.~ // Jhanex
+@5 = ~C'est le bateau avec lequel nous sommes arrivés ici.~ // Charname
+@6 = ~C'est *vous* qui avez fait ça ? Nous avons vu la lumière de la tour briller de nouveau au loin. Le capitaine de notre navire nous a déposés ici pour vérifier les choses. Je suis Jhanex, marin amnien et second de la " Chimère bleue ", un navire marchand battant pavillon d'Athkatla.~ // Jhanex
+@7 = ~Nous devons maintenant trouver un moyen de quitter l'île pour retourner sur le continent.~ // Charname
+@8 = ~Cela ne devrait pas être trop difficile. Nous avons trouvé un navire prêt à être amarré un peu à l'ouest d'ici, sur le rivage !~ // Jhanex
+@9 = ~Par Umberlee ! Qu'est-il arrivé à l'équipage ?~ // Jhanex
+@10 = ~Ils ont tous été tués.~ // Charname
+@11 = ~C'est malheureux à entendre. Mais d'après ce que les gens disent de l'île, je ne suis pas surpris. Nous chérirons la mémoire des braves marins qui vous ont amenés ici !~ // Jhanex
+@12 = ~Permettez-moi de retourner sur le navire avec mes hommes et de tout préparer. Retrouvez-moi sur le quai dès que vous serez prêts à traverser, mais dépêchez-vous car j'ai hâte de quitter cette île !~ // Jhanex
+@13 = ~Très bien. On se retrouve près du bateau.~ // Charname
+@14 = ~Allez, les gars ! Jetons un coup d'œil rapide ici et préparons ce navire abandonné pour le passage vers Athkatla !~ // Jhanex
 
 // at the boat
 
-@15 = ~There you are! Come on, let's get out of here, it's all ready to go!~ // Jhanex
-@16 = ~Wait, I'm not ready yet. You'll have to wait a little longer!~ // Charname
-@17 = ~I'm ready to go. We can leave.~ // Charname
-@18 = ~Well, have it your way. I'll wait for you here on deck for a little longer.~ // Jhanex
-@19 = ~Great! A quick prayer to Shaundakul, and then we're off this island!~ // Jhanex
+@15 = ~Vous voilà ! Allez, partons d'ici, Tout est prêt !~ // Jhanex
+@16 = ~Attendez, je ne suis pas encore prêt. Vous allez devoir attendre encore un peu !~~Attendez, je ne suis pas encore prête. Vous allez devoir attendre encore un peu !~ // Charname
+@17 = ~Je suis prêt à partir. Nous pouvons y aller.~~Je suis prête à partir. Nous pouvons y aller.~ // Charname
+@18 = ~Eh bien, faites comme vous voulez. Je vous attendrai encore un peu sur le pont.~ // Jhanex
+@19 = ~Génial ! Une prière rapide à Shaundakul, et nous quittons cette île !~ // Jhanex
 
 // back in Athkatla
 
-@20 = ~Here we are. Did you miss this stinking harbour as much as I did? I'm sure you've got lots to talk about, but I'm afraid I must get back to my ship before the captain cuts my pay. We could use more of your type around these parts, so keep up the good work! Anyway, take good care of yourselves. Farewell!~ // Jhanex
+@20 = ~Nous y voilà. Ce port puant vous a-t-il manqué autant qu'à moi ? Je suis sûr que vous avez beaucoup de choses à dire, mais je crains de devoir retourner à mon navire avant que le capitaine ne réduise mon salaire. Nous aurions besoin de plus de gens comme vous par ici, alors continuez à faire du bon travail ! Quoi qu'il en soit, prenez bien soin de vous. Adieu !~ // Jhanex
 
 // Thalass, quest finish
 
-@21 = ~Here you are again at last! What have you been doing on the island for so long?~ // Thalass
-@22 = ~I've made the lighthouse shine again - just like you told me to do!~ // Charname
-@23 = ~Oh! That's great! What happened on the island?~ // Thalass
-@24 = ~A group of cultists had taken le Cristal de lumière to the Plane of Shadows to capsize ships and sacrifice the sailors to their dark lord.~ // Charname
-@25 = ~A sea witch had taken over the island. I slew her and the rest of the monsters.~ // Charname
-@26 = ~A sea witch? That's weird. I wonder what she had to do with the lighthouse. Never mind.~ // Thalass
-@27 = ~What? That's outrageous! And you expect me to take your word for it?~ // Thalass
-@28 = ~I do, yes.~ // Charname
-@29 = ~Look, I have a journal of the cultist leader here. That should explain everything.~ // Charname
-@30 = ~You'll have to show me proof to make your story believable to the council!~ // Thalass
-@31 = ~Then don't believe me.~ // Charname
-@32 = ~I have here a journal of the cultist leader. That should explain everything.~ // Charname
-@33 = ~A portal to the Plane of Shadows? And an ancient being was to be freed? This is... disturbing news. Did you hunt down all the priests?~ // Thalass
-@34 = ~Yes.~ // Charname
-@35 = ~Yes. Here is the holy symbol of their leader.~ // Charname
-@36 = ~Then I suppose I've no choice but to believe you!~ // Thalass
-@37 = ~That's excellent!~ // Thalass
-@38 = ~Be that as it may. You've obviously turned on the light of the lighthouse again.~ // Thalass
-@39 = ~You have far exceeded my expectations! I raise the sum of your reward to three thousand gold coins. The whole city owes you a debt of gratitude!~ // Thalass
-@40 = ~You have done a good job. I double the amount of your reward to two thousand gold coins. The whole town is obliged to thank you!~ // Thalass
-@41 = ~Here is the promised reward. Because of you, sailors will once again sleep more calmly at night!~ // Thalass
-@42 = ~And now, if you'd pardon me, I have to report to the council, and claim my own reward! After all, I've had the most work of all of us in this matter. Farewell!~ // Thalass
+@21 = ~Vous voilà enfin de retour ! Que faisiez-vous sur l'île pendant si longtemps ?~ // Thalass
+@22 = ~J'ai fait briller le phare à nouveau - comme vous me l'aviez demandé !~ // Charname
+@23 = ~Oh ! C'est excellent ! Que s'est-il passé sur l'île ?~ // Thalass
+@24 = ~Un groupe de cultistes avait emmené le Cristal de lumière dans le Plan des Ombres pour faire chavirer les navires et sacrifier les marins à leur seigneur des ténèbres.~ // Charname
+@25 = ~Une sorcière des mers s'était emparée de l'île. Je l'ai tuée, ainsi que les autres monstres.~ // Charname
+@26 = ~Une sorcière des mers ? C'est curieux. Je me demande ce qu'elle a à voir avec le phare. Mais passons.~ // Thalass
+@27 = ~Quoi ? C'est scandaleux ! Et vous voulez que je vous croie sur parole ?~ // Thalass
+@28 = ~Oui, c'est le cas.~ // Charname
+@29 = ~Regardez, j'ai là le journal du chef des cultistes. Cela devrait tout expliquer.~ // Charname
+@30 = ~Vous devrez me montrer des preuves pour que votre histoire soit crédible aux yeux du Conseil !~ // Thalass
+@31 = ~Alors ne me croyez pas.~ // Charname
+@32 = ~J'ai ici le journal du chef des cultistes. Cela devrait tout expliquer.~ // Charname
+@33 = ~Un portail vers le Plan des Ombres ? Et un être ancien allait être libéré ? C'est une nouvelle inquiétante. Avez-vous traqué tous les prêtres ?~ // Thalass
+@34 = ~Oui.~ // Charname
+@35 = ~Oui. Voici le symbole sacré de leur chef.~ // Charname
+@36 = ~Alors je suppose que je n'ai pas d'autre choix que de vous croire !~ // Thalass
+@37 = ~C'est excellent !~ // Thalass
+@38 = ~Quoi qu'il en soit. Vous avez manifestement rallumé la lumière du phare.~ // Thalass
+@39 = ~Vous avez largement dépassé mes espérances ! Je porte le montant de votre récompense à trois mille pièces d'or. Toute la ville vous est reconnaissante !~ // Thalass
+@40 = ~Vous avez fait du bon travail. Je double le montant de votre récompense à deux mille pièces d'or. Toute la ville vous remercie !~ // Thalass
+@41 = ~Voici la récompense promise. Grâce à vous, les marins pourront à nouveau dormir plus tranquillement la nuit !~ // Thalass
+@42 = ~Et maintenant, si vous voulez bien me pardonner, je dois me présenter au conseil et réclamer ma propre récompense ! Après tout, c'est moi qui ai le plus travaillé dans cette affaire. Je vous dis adieu !~ // Thalass
 
 // the two sailors waiting at the boat
 
-@43 = ~I can't wait to head back to Athkatla. Talk to Jhanex when you are ready to leave.~ // Marin
+@43 = ~J'ai hâte de retourner à Athkatla. Parlez à Jhanex quand vous serez prêt à partir.~ // Marin

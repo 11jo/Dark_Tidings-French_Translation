@@ -1,219 +1,230 @@
-@2000 = ~The Ring of Purest Blood~
-@2001 = ~Achieving lichdom is no easy task, and many aspiring undead mages have failed miserably in their attempt to attain eternal life. The mage Arcturus of Shoonach sought to prevent this failure by creating this ring. He bound the blood of three storm giants into the ring and had a dwarven gemstone cutter work in a ruby as an ornament. The effort was rewarded with this ring, which he hoped would protect him from the all-too-deadly effects of drinking the poisonous brew needed to attain lichdom.
+@2000 = ~Anneau du sang purifié~
+@2001 = ~Atteindre le lichéat n'est pas une tâche facile, et de nombreux aspirants mages morts-vivants ont échoué lamentablement dans leur tentative d'atteindre la vie éternelle. Le mage Arcturus de Shoonach a cherché à éviter cet échec en créant cet anneau. Il y intégra le sang de trois géants des tempêtes et demanda à un joaillier nain d'y ajouter un rubis en guise d'ornement. Ses efforts furent récompensés par la création de cet anneau qui, espérait-il, le protégerait des effets mortels du breuvage empoisonné nécessaire à l'obtention du lichéat.
 
-A few days later, a priest of Kelemvor pulled the ring from Arcturus' cold fingers before he was buried in the mausoleum. Even if the ring had not worked as intended for its creator, it served the Church of Ilmater well in the centuries to come, which used the object to help the sick and dying recover more quickly from their ailments. From then on, it was the task of the item to serve the well-being of the peoples of Faerun. To this day, the ring is a symbol of purity, health and vitality and is sought and coveted by many for a variety of reasons, though no one has been foolish enough to use the ring again in a ritual as powerful as achieving lichdom.
+Quelques jours plus tard, un prêtre de Kelemvor retira l'anneau des doigts froids d'Arcturus avant qu'il ne soit enterré dans le mausolée. Même si l'anneau n'avait pas fonctionné comme prévu pour son créateur, il servit bien l'Église d'Ilmater dans les siècles qui suivirent, qui utilisa l'objet pour aider les malades et les mourants à se remettre plus rapidement de leurs maux. Dès lors, l'objet eut pour mission de servir le bien-être des peuples de Faérun. Aujourd'hui encore, l'anneau est un symbole de pureté, de santé et de vitalité, et il est recherché et convoité par de nombreuses personnes pour diverses raisons, bien que personne n'ait été assez fou pour l'utiliser à nouveau dans un rituel aussi puissant que l'obtention du lichéat.
 
-STATISTICS:
+PARAMÈTRES : 
 
-- Constitution: +1~
-@2002 = ~Black Cloak~
-@2003 = ~Veil of choking darkness~
-@2004 = ~This cloak is dark and sinister.~
-@2005 = ~This cloak is woven of thick, old linen that seems strangely frayed at its edges - much as if the outline of the cloak is fading from this world. It offers protection against many types of elemental damage and conventional attacks, but the wearer must pay a high price for it: If he fails a Death saving throw, he dies trying to don the cloak. If the saving throw succeeds, however, he still loses some of his life force.
-  The cloak smells of damp, gloomy earth and seems to be very old - perhaps it dates from a time when even the gods of the realms were still young and other, more primal beings ruled over Toril. The history of the garment is as obscure as the wearer of the cloak itself.
+Capacités d'équipement : 
+- Constitution : +1
 
-STATISTICS:
+Poids : 0~
+@2002 = ~Cape noire~
+@2003 = ~Voile de ténèbres étouffantes~
+@2004 = ~Cette cape est sombre et sinistre.~
+@2005 = ~Cette cape est tissée dans un vieux lin épais dont les bords semblent étrangement effilochés, comme si le contour de la cape s'effaçait de ce monde. Elle offre une protection contre de nombreux types de dégâts élémentaires et d'attaques conventionnelles, mais son porteur doit en payer le prix fort : S'il échoue à un jet de sauvegarde de Mort, il meurt en essayant d'enfiler la cape. S'il réussit son jet de sauvegarde, il perd tout de même une partie de sa force vitale.
+  La cape sent la terre humide et glauque et semble très ancienne - peut-être date-t-elle d'une époque où même les dieux des royaumes étaient encore jeunes et où d'autres êtres plus primitifs régnaient sur Toril. L'histoire de ce vêtement est aussi obscure que celle de son porteur.
 
-Equipped abilities:
-Armor Class: +2
-Saving Throws: +1
-- Magic resistance to electricity: +30%
-- Magic resistance to cold: +30%
-- Magic resistance against fire: +30%
-- Hit points: -10 malus
-- The wearer must succeed in a saving throw against death when putting it on, otherwise he is killed instantly.
-Weight: 3~
-@2006 = ~Arrows of Darkness~
-@2007 = ~When this arrow is shot at an enemy, he is blinded for one round if he fails a saving throw against spells.
+PARAMÈTRES : 
 
-STATISTICS:
+Capacités d'équipement : 
+- Classe d'armure : +2
+- Jets de sauvegarde : +1
+- Points de vie maximums : -10
+- Résistance aux dégâts élémentaires : +30 %
+- Tue instantanément le porteur (de niveau 6 ou supérieur) (jet de sauvegarde contre la mort pour annuler)
 
-Combat abilities:
-– Target must save vs. spell or is blinded for 1 round
+Poids : 3~ // Revoir la dernière partie des statistiques
+@2006 = ~Flèche de Ténèbres~
+@2007 = ~Lorsque cette flèche est tirée sur un ennemi, celui-ci est aveuglé pendant un round s'il rate un jet de sauvegarde contre les sorts.
 
-Damage: 1d6 (missile)
-Launcher: Bow
+PARAMÈTRES : 
 
-Weight: 0~
-@2008 = ~Arrows of Disease~
-@2009 = ~These arrows are covered with the coagulated blood of an unknown creature. If a being is struck by this arrow, it is afflicted with a disease.
+Capacités de combat : 
+- Aveugle la cible pendant 1 round (jet de sauvegarde contre les sorts pour annuler)
 
-STATISTICS:
+Dégâts : 1d6 (Projectile)
+Arme de trait : Arc
 
-Combat abilities:
-– Target is diseased and therefore slowed down for 4 rounds
+Poids : 0~
+@2008 = ~Flèches de maladie~
+@2009 = ~Ces flèches sont recouvertes du sang coagulé d'une créature inconnue. Si un être est touché par cette flèche, il est atteint d'une maladie.
 
-Damage: 1d6 (missile)
-Launcher: Bow
+PARAMÈTRES : 
 
-Weight: 0~
-@2010 = ~Black Pearl~
-@2011 = ~Pearls are made of several layers of aragonite that form in oysters and other molluscs around a grain of sand or other foreign object. Pearls have a magnificent silky sheen. This pearl is a black pearl, one of the rarest and therefore most precious species. It has no magical properties, but can be sold for a good price.~
+Capacités de combat : 
+- Inocule une maladie qui ralentit la cible pendant 4 rounds
+
+Dégâts : 1d6 (Projectile)
+Arme de trait : Arc
+
+Poids : 0~
+@2010 = ~Perle noire~
+@2011 = ~Les perles sont constituées de plusieurs couches d'aragonite qui se forment dans les huîtres et autres mollusques autour d'un grain de sable ou d'un autre corps étranger. Les perles ont un magnifique éclat soyeux. Cette perle est une perle noire, l'une des variétés les plus rares et donc les plus précieuses. Elle n'a pas de propriétés magiques, mais peut être vendue à un bon prix.~
 /*
 @2012 = ~Potion of dispelling magic~
 @2013 = ~By consumption of this potion, all magical effects on the user are instantly dispelled - no matter if they are useful or harmful magical effects.~
 */
-@2014 = ~Poisoned Healing Potion~
-@2015 = ~This potion looks, smells and tastes like a healing potion or other beneficial potion. In reality, however, it is a poison disguised by illusion magic. An Identify spell reveals its true nature. If you drink the potion anyway, you suffer poison damage every second for three rounds.~
-@2016 = ~Brique d'ombres~
-@2017 = ~Cette pierre is imbued with deepest black. Its edges seem to melt away. It feels cold and is light as a feather.~
-@2018 = ~The Book of Rituals~
-@2019 = ~A bright sun decorates the cover of this book. Although it looks very old, it still seems to be in a good shape. You were given it by the undead lighthouse keeper, who asked you to use the book to perform a ritual to seal the portal to the Plane of Shadow and shut down the unholy place beneath the lighthouse. The book contains a passage on how to perform the ritual:
-  "To banish the influence of the Elder Elemental Eye, the evil Tharizdun, from the World of Light, a user of arcane or divine magic must proceed as follows. At the place under the lighthouse where Tharizdun's whispers can be heard and the twisted elemental magic is in effect, the ritual must be performed.
-First, le Cristal de lumière must be placed beneath the unholy altar. An expert in magic must stand in the middle of the room. It is irrelevant whether the magic caster is a mage or a priest. The first spell the caster has to cast is 'Protection from Evil' to keep the evil elements away from the place. The second spell to be cast is 'True Sight' to remove the evil illusions of Tharizdun. As a final spell, the ritualist must cast 'Dispel Magic' to break the magical bonds that feed the unholy place with energy. Then the ritual is performed and the dark whispers of Tharizdun will be forever silenced beneath the lighthouse. It may be that le Cristal de lumière will be destroyed by the ritual, but this is the sacrifice necessary to banish the dark evil of Tharizdun from the world of light once more."~
-@2020 = ~The Last Age of Eternal Darkness~
-@2021 = ~This book is adorned with a strange jagged spiral. It contains numerous obscure runes, signs and words in ancient languages no longer known today. Only a few lines are written in a script and language understandable to you:
-"The Finisher, the Elder Elemental Eye, the Dark God, the One Who Is Patient, the One Who Waits, the Abomination, the Father of Primordial Evil, the Author of Mischief, the Lord of Eternal Darkness, the Eater of Worlds, the Despised One, the Unhappener - these are but a few of the many names for our glorious Master. For a thousand years the dark god has waited, lurking beyond the bounds of reality, locked in a vault erected by jealous hands, its rightful throne occupied by usurpers. In recent centuries our efforts have led to destruction, decay and loss, while these lesser powers have sought to confuse, mislead and set us against each other, for you see, His release means their end. They fear him. Yes, mighty Tyr, Lathander, even sad Beshaba, they all tremble at His imminent arrival. The time has come, the end has come, and it is our sacred duty to usher in the final age of our world and bring the constructs of the false gods to ruin. Only then will we understand the perfect nature of all that is possible with the Eternal Darkness."~
-@2022 = ~Cultist Helmet~
-@2023 = ~This helmet is not so much protection as the headdress of a cult unknown to you. It is elaborately decorated and has a dark purple colour. On the rim of the helmet is a fine embroidery. In common language it says: "The faithful should wear the helmet, so that the way of the Elder Elemental Eye may show itself to them."~
-@2024 = ~This helmet is not so much protection as the headdress of a cult unknown to you. It is elaborately decorated and has a dark purple colour.~
+@2014 = ~Potion de guérison empoisonnée~
+@2015 = ~Cette potion a l'apparence, l'odeur et le goût d'une potion de guérison ou d'une autre potion bénéfique. En réalité, il s'agit d'un poison déguisé par la magie de l'illusion. Un sort d'identification révèle sa véritable nature. Si vous buvez quand même la potion, vous subirez des dégâts de poison toutes les secondes pendant trois rounds.~
+@2016 = ~Brique d'ombres~ // Shadow brick
+@2017 = ~Cette pierre est imprégnée d'une obscurité des plus profonde. Ses contours semblent se perdre dans le néant, elle est froide au toucher et légère comme une plume.~
+@2018 = ~Le livres des Rituels~
+@2019 = ~Un soleil éclatant orne la couverture de ce livre. Bien qu'il ait l'air très vieux, il semble encore en bon état. Le gardien mort-vivant du phare vous l'a donné et vous a demandé de l'utiliser pour accomplir un rituel visant à sceller le portail vers le Plan de l'Ombre et à faire taire le lieu impie situé sous le phare. Le livre contient un passage sur la façon d'effectuer le rituel :
+  "Pour bannir du monde de la lumière l'influence de l'Œil Élémentaire Ancien, le maléfique Tharizdun, un utilisateur de magie arcanique ou divine doit procéder de la manière suivante. A l'endroit sous le phare où les murmures de Tharizdun peuvent être entendus et où la magie élémentaire perverse est en vigueur, le rituel doit être exécuté.
+Tout d'abord, le Cristal de lumière doit être placé sous l'autel impie. Un expert en magie doit se tenir au milieu de la pièce. Peu importe que le lanceur de sorts soit un mage ou un prêtre. Le premier sort qu'il doit lancer est "Protection contre le mal" afin d'éloigner les éléments maléfiques de l'endroit. Le deuxième sort à lancer est " Vision véritable " pour éliminer les illusions maléfiques de Tharizdun. Enfin, le ritualiste doit lancer " Dissipation de la magie " pour briser les liens magiques qui alimentent en énergie ce lieu impie. Le rituel sera alors accompli et les sombres murmures de Tharizdun se tairons à jamais sous le phare. Il se peut que le Cristal de lumière soit détruit par le rituel, mais c'est le sacrifice nécessaire pour bannir le sombre mal de Tharizdun du monde de la lumière une fois de plus."~
+@2020 = ~Le Dernier Âge des Ténèbres Éternelles~
+@2021 = ~Ce livre est orné d'une étrange spirale dentelée. Il contient de nombreuses runes obscures, des signes et des mots dans des langues anciennes qui ne sont plus connues aujourd'hui. Seules quelques lignes sont écrites dans une écriture et un langage compréhensibles pour vous :
+"Le Finisseur, l'Œil Élémentaire Ancien, le Dieu des ténèbres, le Patient, l'Attendu, l'Abomination, le Père du Mal primordial, l'Auteur du Mal, le Seigneur des Ténèbres éternelles, le Mangeur de mondes, le Méprisé, le Malheureux - ce ne sont là que quelques-uns des nombreux noms qui désignent notre glorieux Maître. Pendant mille ans, le dieu des ténèbres a attendu, tapi au-delà des limites de la réalité, enfermé dans une voûte érigée par des mains jalouses, son trône légitime occupé par des usurpateurs. Au cours des derniers siècles, nos efforts ont conduit à la destruction, la décadence et la ruine, tandis que ces puissances inférieures ont cherché à nous confondre, à nous induire en erreur et à nous monter les uns contre les autres, car, voyez-vous, sa libération signifie leur fin. Ils le craignent. Oui, le puissant Tyr, Lathandre, même le triste Beshaba, tous tremblent devant son arrivée imminente. Le temps est venu, la fin est venue, et il est de notre devoir sacré d'inaugurer le dernier âge de notre monde et de détruire les constructions des faux dieux. Ce n'est qu'alors que nous comprendrons la nature parfaite de tout ce qui est possible avec les Ténèbres Éternelles."~
+@2022 = ~Casque de Cultiste~
+@2023 = ~Ce casque n'est pas tant une protection qu'une coiffe d'un culte inconnu. Il est décoré de manière très élaborée et est de couleur violet foncé. Le bord du casque est orné d'une fine broderie. En langage courant, on peut y lire : "Les fidèles doivent porter le casque, afin que la voie de l'Œil Élémentaire Ancien puisse leur être révélée."~
+@2024 = ~Ce casque n'est pas tant une protection qu'une coiffe d'un culte inconnu. Il est minutieusement décoré et de couleur pourpre foncé.~
 @2025 = ~Note~
-@2026 = ~Your task is to pick up the castaways who have been charmed by the sirens. Escort them to the temple where the sacrificial servants are waiting. The sirens and trolls seem to be affected by this alternative environment and slowly turn into shadowy versions of themselves. Mayhaps they are even of more use to us this way.
+@2026 = ~Votre tâche consiste à recueillir les naufragés qui ont été charmés par les sirènes. Escortez-les jusqu'au temple où les serviteurs sacrificiels les attendent. Les sirènes et les trolls semblent être affectés par cet environnement alternatif et se transforment lentement en des versions ombreuses d'eux-mêmes. Peut-être nous seront-ils encore plus utiles de cette manière.
 - Vergol le « Songeur du Destin ».~
-@2027 = ~Brokus' note~
-@2028 = ~Brokus Sombreaugure, to you, as one of my most loyal servants, I give the most important task in our sacred mission. I am crossing over to the other side with the other Blackseers. Make sure that the trolls, the sirens and the hag remain in our favour. Surviving castaways must be charmed by the sirens as quickly as possible and brought by you to the other side as sacrifices. If intruders land on the island you must seal the passage so that it is not discovered. Intruders should think that a sea hag is responsible for all of this.
-  So if you have to seal the passage again, do the following: 
-  Destroy the shadow stone to close the secret passage. You can easily generate a new shadow stone in the ritual chamber later. Lock the door to the cellar and hide the key, preferably in your chest. Let the hag seal the tower from the outside with her foul magic. Don't forget to activate the traps in the tower! When the danger is over, you will have to perform the ritual again to get a new shadow stone. Remember that you must wear your cult helmet to see the outline of the secret door.
-  Destroy this message after you have read it.
+@2027 = ~Note de Brokus~
+@2028 = ~Brokus Sombreaugure, c'est à toi, l'un de mes plus fidèles serviteurs, que je confie la tâche la plus importante de notre mission sacrée. Je passe de l'autre côté avec les autres devins noirs. Assurez-vous que les trolls, les sirènes et la sorcière restent en notre faveur. Les naufragés survivants doivent être charmés par les sirènes le plus rapidement possible et amenés par vous sur l'autre rive en guise de sacrifices. Si des intrus débarquent sur l'île, vous devez sceller le passage afin qu'il ne soit pas découvert. Les intrus doivent penser qu'une sorcière est responsable de tout cela.
+  Si vous devez à nouveau sceller le passage, procédez comme suit : 
+  Détruisez la pierre d'ombre pour fermer le passage secret. Vous pourrez facilement générer une nouvelle pierre d'ombre dans la chambre rituelle plus tard. Fermez la porte de la cave et cachez la clé, de préférence dans votre coffre. Laissez la sorcière sceller la tour de l'extérieur avec sa magie fétide. N'oubliez pas d'activer les pièges de la tour ! Une fois le danger écarté, vous devrez refaire le rituel pour obtenir une nouvelle pierre d'ombre. N'oubliez pas que vous devez porter votre casque de culte pour voir le contour de la porte secrète.
+  Détruisez ce message après l'avoir lu.
+  
   - Vergol le « Songeur du Destin ».~
 @2029 = ~This is our creed, our deepest vow:
   "La lumière doit être étouffée, la perfection doit être abolie, l'ordre doit être anéanti et l'esprit... L'esprit doit être brisé" 
   C'est alors que quelque part dans le néant, là où ni le temps ni l'espace ne peuvent exister, un être tout puissant s'éveille et se meut. L'avènement de l'obscurité la plus noire est venue.~
-@2030 = ~"When there is plenty of light, there is also plenty of shadow."~
-@2031 = ~Crab claw~
-@2032 = ~These magically altered claws once belonged to a giant crab. With the aid of this item it should be possible to open areas closed by all kinds of marine life.~
-@2033 = ~Black substance~
-@2034 = ~Shadow Substance~
-@2035 = ~The edges of this crumbly substance seem to melt away and get lost in the shadows.~
-@2036 = ~These fragments are the remains of shadow matter. The crumbs seem to have been the remains of a larger object.~
-@2037 = ~Dentures~
-@2038 = ~The Last Laughter~
-@2039 = ~These dentures appear to have been carved from animal bones.~
-@2040 = ~This is the denture of Ormond Dante, a famous pirate who roamed the Sword Coast about a hundred years ago. Severely scarred by scurvy, he commissioned these teeth, carved from whale bone, from a gnomish manufactory in his later years. His ship's magician put some enchantments on the teeth, but even the magician could do nothing against his captain's rancid breath and ghastly appearance. The pirate was known for his booming laughter in hopeless situations, so it is not surprising that his dentures have the ability to unnerve enemies within earshot for a time.
+@2030 = ~"Quand il y a beaucoup de lumière, il y a aussi beaucoup d'ombre.~
+@2031 = ~Pince de crabe~
+@2032 = ~Cette pince modifiée par magie appartenaient autrefois à un crabe géant. Grâce à cet objet, il devrait être possible d'ouvrir des zones fermées par toutes sortes d'animaux marins.~
+@2033 = ~Substance noire~
+@2034 = ~Substance d'ombre~
+@2035 = ~Les bords de cette substance friable semblent se fondre et se perdre dans l'ombre.~
+@2036 = ~Ces fragments sont des restes de matière d'ombre. Ces miettes semblent avoir fait partie d'un objet plus grand.~
+@2037 = ~Dentier~
+@2038 = ~Le dernier rire~
+@2039 = ~Ces dentiers semblent avoir été taillés dans des os d'animaux.~
+@2040 = ~Voici le dentier d'Ormond Dante, un célèbre pirate qui parcourait la Côte des Épées il y a une centaine d'années. Gravement marqué par le scorbut, il commanda ces dents, taillées dans de l'os de baleine, à une manufacture gnomique dans ses dernières années. Le magicien de son navire a appliqué quelques enchantements sur les dents, mais même le magicien n'a rien pu faire contre l'haleine rance et l'apparence épouvantable de son capitaine. Le pirate était connu pour son rire tonitruant dans les situations désespérées, il n'est donc pas surprenant que son dentier ait la capacité d'énerver les ennemis à portée de voix pendant un certain temps.
+PARAMÈTRES : 
 
-STATISTICS:
+Capacités d'équipement : 
+- Protection contre les coups critiques
+- Charisme : -2
+- Immunité aux charmes et à la peur
 
-Equipped abilities: 
-- Charisma -2
-- The wearer gains immunity to charm and fear
-Ormond's Laughter (once per day): All enemies within hearing range receive a -2 penalty to all rolls (including ThAC0 and saving throws) for 5 rounds. There is no saving throw against the effects of this spell.
-Weight: 1~
-@2041 = ~Brokus' Chest Key~
-@2042 = ~This key is elaborately made and appears to belong to a chest.~
-@2043 = ~Cellar key~
-@2044 = ~A greenish key that looks like it has been exposed to moisture for a long time.~
-@2045 = ~Brokus' diary~
-@2046 = ~Brokus' diary
+Capacité de charge :
+- Rire d'Ormond une fois par jour : tous les ennemis dans la zone subissent -2 au TAC0 et aux jets de sauvegarde pendant 5 rounds.
+
+Poids : 1~
+@2041 = ~Clé du coffre de Brokus~
+@2042 = ~Cette clé de facture élaborée semble appartenir à un coffre.~
+@2043 = ~Clé de cave~
+@2044 = ~Une clé verdâtre qui donne l'impression d'avoir été exposée à l'humidité pendant une longue période.~
+@2045 = ~Journal de Brokus~
+@2046 = ~Journal de Brokus
 
 
 3. Tarsak 1369
-Irphong is ours! We have landed on the island. A tribe of Sirens had taken up residence in the caves, but they swore allegiance to our dark lord after we slew two of them. They can still be useful to us. Some fools immediately went in search of treasure. As if there would be anything left of it after all the centuries the island has been uninhabited!
+Irphong est à nous ! Nous avons débarqué sur l'île. Une tribu de Sirènes avait élu domicile dans les grottes, mais elles ont prêté allégeance à notre seigneur des ténèbres après que nous ayons tué deux d'entre elles. Elles peuvent encore nous être utiles. Certains imbéciles se sont immédiatement mis en quête d'un trésor. Comme s'il en restait quelque chose après tous ces siècles où l'île a été inhabitée !
 
 12 Tarsak
-Vergol le « Songeur du Destin » has summoned a group of sea trolls to the island to keep pirates away. The hag has also arrived and made herself at home in the upper part of the island. We should not look at her or we will be struck by her curse of weakness. Her brew is quite useful. Most of the time she wanders the island in the form of a little girl. Everyone is desperately searching for the entrance to the other side, but we have found nothing.
+Vergol le " Songeur du Destin " a convoqué un groupe de trolls de mer sur l'île pour éloigner les pirates. La sorcière est également arrivée et s'est installée dans la partie haute de l'île. Il ne faut pas la regarder sous peine d'être frappé par sa malédiction de faiblesse. Son breuvage est très utile. La plupart du temps, elle se promène sur l'île sous la forme d'une petite fille. Tout le monde cherche désespérément l'entrée de l'autre côté, mais nous n'avons rien trouvé.
 
 20. Tarsak
-We found the portal to the other side! It was there all along, right before our eyes! The old cultists took great pains to hide it from prying eyes. If you place the appropriate item in the hiding place and wear the helmet of our cult, the passageway will appear clearly before you.
+Nous avons trouvé le portail de l'autre côté ! Il était là depuis le début, sous nos yeux ! Les anciens cultistes avaient pris soin de le cacher aux regards indiscrets. Si vous placez l'objet approprié dans la cachette et portez le casque de notre culte, le passage apparaîtra clairement devant vous.
 
 1 Mirtul
-The others have taken le Cristal de lumière from the socket of the lighthouse on the top floor and crossed to the other side through the portal with it. Any castaway that washes up now must be brought there by myself as a sacrifice. Every third one is for the trolls, the hag and the sirens. I am to wait here and hide. Let the ships that sail by believe that the Sea hag and the Sirens are behind it all.
+Les autres ont pris le Cristal de lumière dans le socle du phare au dernier étage et sont passés de l'autre côté du portail avec lui. Tout naufragé qui s'échoue maintenant doit être amené là par moi-même en guise de sacrifice. Un sur trois est destiné aux trolls, à la sorcière et aux sirènes. Je dois attendre ici et me cacher. Laissez les bateaux qui passent croire que la sorcière et les sirènes sont derrière tout cela.
 
 3. Mirtul
-Vergol le « Songeur du Destin » is still busy completing la cérémonie. We need more victims! The ships are avoiding the island by now, and everyone is starting to get restless....
+Vergol le " Songeur du Destin " est toujours occupé à accomplir le rituel. Nous avons besoin de plus de victimes ! Les navires évitent l'île et tout le monde commence à s'agiter....
 
-4th Mirtul
-I feel madness gripping me. Is this the touch of our longed-for God? I don't know...
-~
-@2047 = ~Vergol's visions~
-@2048 = ~The Chained One, the Imprisoned God, the Dark One....
-... he calls me! At first my dreams were muddled and unclear, but now it has fallen like a shadow from my eyes. How fitting! At last our cult cell has a use. There is this lonely island, far to the west of our homeland of Chessenta. There, in ancient times, they worshipped our Lord Tharizdun. In later generations his cult was banned, and the many sacrifices offered to our Lord by the shoals off the island dried up. The fools even placed a magical lighthouse on the island to stop the Lord of Shadows. The mission our Lord gave us in my dreams is simple: remove the magical crystal of the lighthouse, unseal the ancient entrance to our Lord's plane, offer all the stranded as sacrifices to the Elder Elemental Eye, thereby desecrating the Lighthouse, and finally break the bonds that keep our God from re-entering the world.
-Then, at last, the gaze of the Elder Elemental Eye, our Lord Tharizdun, will once again shroud all in eternal darkness and secure for us, his most faithful servants, a place at his side.
+4ème Mirtul
+Je sens la folie m'envahir. Est-ce la touche de notre Dieu tant désiré ? Je ne sais pas...
 
 ~
-@2049 = ~Holy Symbol~
-@2050 = ~Vergol's Holy Symbol~
-@2051 = ~This seems to be some kind of holy symbol of a god unbeknownst to you.~
-@2052 = ~The symbol is a depiction of an entity called "Tharizdun". Many legends revolve around this being who was trapped in an unknown prison before the creation of the world as you know it. However, weaker aspects of Tharizdun still seem to persist in various parts of the world, trying to tempt their worshippers to free the true Tharizdun.~
-@2053 = ~Bronze Bowl~
-@2054 = ~This bowl is made of bronze. There are slight stains on the edges, as if a large amount of water has been put in it countless times before.~ 
-@2055 = ~This magical bowl holds great power in that it grants the owner a certain degree of control over magical creatures known as water elementals. As is the case with all elemental forces, this control can be turned towards either good or evil, law or chaos. One would therefore be well advised to use discretion when dealing with any such creatures.
+@2047 = ~Visions de Vergol~
+@2048 = ~L'Enchaîné, le Dieu emprisonné, le Ténébreux....
+... il m'appelle ! Au début, mes rêves étaient confus et peu clairs, mais maintenant, ils sont tombés comme une ombre devant mes yeux. C'est tout à fait approprié ! Notre cellule de culte a enfin une utilité. Il y a cette île solitaire, loin à l'ouest de notre patrie de Chessenta. C'est là que, dans les temps anciens, on vénérait notre Seigneur Tharizdun. Au fil des générations, son culte a été interdit, et les nombreux sacrifices offerts à notre Seigneur par les bancs au large de l'île se sont taris. Les imbéciles ont même placé un phare magique sur l'île pour arrêter le Seigneur des Ombres. La mission que notre Seigneur nous a confiée dans mes rêves est simple : retirer le cristal magique du phare, desceller l'ancienne entrée du plan de notre Seigneur, offrir tous les naufragés en sacrifice à l'Œil Élémentaire Ancien, profanant ainsi le Phare, et enfin briser les liens qui empêchent notre Dieu de revenir dans le monde.
+Alors, enfin, le regard de l'Œil Élémentaire Ancien, notre Seigneur Tharizdun, enveloppera à nouveau tout le monde dans les ténèbres éternelles et nous assurera, à nous, ses plus fidèles serviteurs, une place à ses côtés.
+
+~
+@2049 = ~Symbole sacré~
+@2050 = ~Symbole sacré de Vergol~
+@2051 = ~Cela semble être une sorte de symbole sacré d'un dieu que vous ne connaissez pas.~
+@2052 = ~Le symbole représente une entité appelée "Tharizdun". De nombreuses légendes tournent autour de cet être qui a été enfermé dans une prison inconnue avant la création du monde tel que vous le connaissez. Cependant, des aspects plus faibles de Tharizdun semblent toujours persister dans diverses parties du monde, essayant de tenter leurs adorateurs afin qu'ils essaient de libérer le véritable Tharizdun.~
+@2053 = ~Bol en bronze~
+@2054 = ~Ce bol est en bronze. Il y a de légères taches sur les bords, comme si une grande quantité d'eau y avait été versée un nombre incalculable de fois.~ 
+@2055 = ~Ce bol magique possède un grand pouvoir car il permet à son propriétaire d'exercer un certain contrôle sur les élémentaires d'eau. Comme c'est le cas pour toutes les forces élémentaires, ce contrôle peut être tourné vers le bien ou le mal, la loi ou le chaos. Il convient donc de faire preuve de discernement lorsqu'on a affaire à de telles créatures.
 
 STATISTICS:
 
-- Special Abilities: Summons a water elemental once per day for a duration of five minutes. The power of the summoned water elemental depends on the caster's level:
-- Level 8 to 11: A lesser water elemental with 8 HD is summoned.
-- Level 12 to 15: A water elemental with 12 HD is summoned.
-- Level 16 and above: A greater water elemental with 16 HD is summoned~
+- Capacités spéciales : Invoque un élémentaire d'eau une fois par jour pour une durée de 5 minutes. La puissance de l'élémentaire d'eau convoqué dépend du niveau du lanceur de sorts :
+- Niveau 8 à 11 : Invoque un élémentaire d'eau mineur de 8 dés de vie.
+- Niveau 12 à 15 : Invoque un élémentaire d'eau de 12 dés de vie.
+- Niveau 16 et plus : Invoque un élémentaire d'eau majeur de 16 dés de vie.~
 @2056 = ~Cristal de lumière~
-@2057 = ~This is le Cristal de lumière that activates the magical glow on the top floor of the Irphong Lighthouse. Its origins have been forgotten over the millennia. It seems to be older than the first empires of humans in the Heartlands. Its use as a source of light for the Irphong Lighthouse dates back to the age of the Shoon Empire, when people tried to solve most things in life through magic.~
-@2058 = ~Fog Cloud~
-@2059 = ~Fog cloud 
-(Alteration)
+@2057 = ~C'est le Cristal de lumière qui active la lueur magique au dernier étage du phare d'Irphong. Ses origines ont été oubliées au fil des millénaires. Il semble qu'il soit plus ancien que les premiers empires humains des Terres du Cœur. Son utilisation comme source de lumière pour le phare d'Irphong remonte à l'époque de l'empire Shoon, où les gens essayaient de résoudre la plupart des problèmes de la vie par la magie.~
+@2058 = ~Nuage de brouillard~
+@2059 = ~Nuage de brouillard
+(Altération)
 
-Level: 2
-Range: 90 ft.
-Duration: 4 rounds
-Casting Time: 2
-Area of Effect: 15-ft. radius
-Saving Throw: None
+Niveau : 2
+Portée : 12 mètres.
+Durée : 4 rounds
+Temps d'incantation : 2
+Zone d'effet : rayon de 4,5 mètres
+Jet de sauvegarde : Aucun
 
-This spell creates a dense mist similar in appearance to the 5th level spell "Cloudkill". However, this fog forms a a billowing mass of ghastly, yellowish-green vapours, measuring 40 feet x 20 feet x 20 feet, that are non-toxic but obscure vision. Creatures in the fog are blind for the duration of the effect. In addition, there is a 50% chance that creatures in the mist will be undetectable and become invisible for one round.~
-@2060 = ~Waterblade +2~
-@2061 = ~This longsword has a flowing, curved shape. Attached to its pommel is a blue-green square handle which, like the rest of the blade's appearance, indicates its elemental connection to the element of water. When the sword is held in the hand, the wearer is protected from cold. In addition, once per day he can hurl a blast of pure water from the blade, dealing 3d6 points of blunt damage to anyone in the area of effect within a 50 feet range.
+Ce sort crée un brouillard dense formé d'une masse de vapeur non toxique aux volutes jaunâtres, elle n'est pas toxique mais obscurcie la vue. Les créatures présentes dans le brouillard sont aveuglées tant que celui-ci persiste. En outre, il y a 50 % de chances que les créatures se trouvant dans le brouillard deviennent indétectables et invisibles pendant un round.~
+@2060 = ~Lame d'eau +2~
+@2061 = ~Cette épée longue a une forme fluide et incurvée. Attachée au pommeau, une poignée carrée bleu-vert indique, comme le reste de l'apparence de la lame, son lien étroit avec l'élément de l'eau. Lorsque l'épée est tenue en main, le porteur est protégé du froid. De plus, une fois par jour, il peut projeter un jet d'eau pure à partir de la lame, infligeant 3d6 points de dégâts contondants à quiconque se trouve dans la zone d'effet, dans un rayon de 13 mètres.
 
-STATISTICS:
+PARAMÈTRES :
 
-Equipped abilities:
-- Cold Resistance: +40%
-- Can unleash a blast of water once per day for 3d6 points of damage in a cone-shaped area of 50 feet.
+Capacités d'équipement : 
+- Résistance au froid : +50 %
 
-THAC0: +2
-Damage: 1d8 +2 
-Damage type: Slashing
-Speed Factor: 3
-Proficiency Type: Long Sword
-Type: One-handed
-Requires:
- 5 Strength
- 
-Weight: 3
-Not Usable By:
- Druid
- Cleric
+Capacités de charge : 
+- Peut crée une fois par jour une vague d'eau qui inflige 3d6 points de dégâts contondant dans une zone conique de 13 mètres
+
+TAC0 : +2
+Dégâts : 1d8 +2 (Tranchant)
+Facteur de vitesse : 3
+Type de compétence : Épée longue
+Type : Arme à 1 main
+
+Nécessite : 
+- 5 en Force
+
+Poids : 3
+Non utilisable par :
+ Druide
+ Clerc
  Mage~
-@2062 = ~Protection from poison~
-@2063 = ~Protection from poison 
+@2062 = ~Protection contre les poisons ~
+@2063 = ~Protection contre les poisons 
 (Abjuration)
 
-Level: 2
-Range: Creature touched
-Duration: 10 rounds 
-Casting Time: 3
-Area of Effect: Creature touched
-Saving Throw: None
+Niveau : 2
+Portée : contact
+Durée : 10 rounds 
+Temps d'incantation : 3
+Zone d'effet : 1 créature
+Jet de sauvegarde : Aucun
 
-By using this spell, the chosen creature gains immunity to poisons and venoms administered via contact with the skin, ingestion, sting, bite or weapon. Toxins of other types continue to affect the creature normally. Any poisons already in the body when the spell is cast are also unaffected by this spell.~
-@2064 = ~Waterblade +3~
-@2065 = ~This longsword has a flowing, curved shape. Attached to its pommel is a blue-green square handle which, like the rest of the blade's appearance, indicates its elemental connection to the element of water. When the sword is held in the hand, the wearer is protected from cold. In addition, once per day he can hurl a blast of pure water from the blade, dealing 4d6 points of blunt damage to anyone in the area of effect within a 50 feet range.
+Ce sor permet à la créature choisie d'être immunisée contre les poisons et les venins provoqués par contact avec la peau que ce soit par absorption, par piqûre, par morsure ou par l'intermédiaire d'une arme. Les toxines de nature différente continueront d'affecter la créature normalement et les poisons déjà actifs ne seront pas affectés.~
+@2064 = ~Lame d'eau +3~
+@2065 = ~Cette épée longue a une forme fluide et incurvée. Attachée au pommeau, une poignée carrée bleu-vert indique, comme le reste de l'apparence de la lame, son lien étroit avec l'élément de l'eau. Lorsque l'épée est tenue en main, le porteur est protégé du froid. De plus, une fois par jour, il peut projeter un jet d'eau pure à partir de la lame, infligeant 4d6 points de dégâts contondants à quiconque se trouve dans la zone d'effet, dans un rayon de 13 mètres.
 
-STATISTICS:
+PARAMÈTRES :
 
-Equipped abilities:
-- Cold Resistance: +50%
-- Can unleash a blast of water once per day for 4d6 points of damage in a cone-shaped area of 50 feet.
-- If a Sahuagin is hit by the blade, it is stunned for one round
+Capacités de charge : 
+- Peut crée une fois par jour une vague d'eau qui inflige 4d6 points de dégâts contondant dans une zone conique de 12 mètres
 
-THAC0: +3, +5 against aquatic creatures like Kuo-Toa and Sahuagin
-Damage: 1d8 +3, +5 against aquatic creatures like Kuo-Toa and Sahuagin 
-Damage type: Slashing
-Speed Factor: 3
-Proficiency Type: Long Sword
-Type: One-handed
-Requires:
- 5 Strength
+Capacités de combat : 
+- Étourdit les sahuagins pendant 1 round
+
+Enchantement : +3, +5 contre les kuo-toas et les sahuagins
+TAC0 : +3, +5 contre les kuo-toas et les sahuagins
+Dégâts : 1d8 +3 (Tranchant) +5 contre les kuo-toas et les sahuagins
+Facteur de vitesse : 3
+Type de compétence : Épée longue
+Type : Arme à 1 main
+
+Nécessite : 
+- 5 en Force
  
-Weight: 3
-Not Usable By:
- Druid
- Cleric
+Poids : 3
+Non utilisable par :
+ Druide
+ Clerc
  Mage~
