@@ -56,13 +56,13 @@
 @54 = ~Nallojal en avant, « Moussaillons  » ! Voguons vers des rivages inconnus !~
 @55 = ~L'île paraît déserte. Partez en reconnaissance, nous vous attendrons à bord.~
 @56 = ~Vous êtes les aventuriers ? Consultez le magicien, nous ne sommes que des modestes matelots.~
-@57 = ~Le héros d'Irphong est de retour ! Alors, avez-vous levez votre verre pour fêter la victoire ? Nous n'avons pas attendu !~ ~L’héroïne d'Irphong est de retour ! Alors, avez-vous levez votre verre pour fêter la victoire ? Nous n'avons pas attendu !~ // Bog
+@57 = ~Le héros d'Irphong est de retour ! Alors, avez-vous levez votre verre pour fêter la victoire ? Nous n'avons pas attendu !~ ~L'héroïne d'Irphong est de retour ! Alors, avez-vous levez votre verre pour fêter la victoire ? Nous n'avons pas attendu !~ // Bog
 @58 = ~Arrêtez vos fables, mon garçon et laissez-nous trinquer en paix.~ ~Arrêtez vos fables, jeune fille et laissez-nous trinquer en paix.~
 @59 = ~Avez-vous posé pied sur l'île, marin d'eau douce ?~ // Bog
 @60 = ~Pas encore, mais cela ne saurait tarder.~ // Charname
 
 @61 = ~En effet...~ // Charname
-@62 = ~Hmpf. Ça ne m’étonne pas.~ // Bog
+@62 = ~Hmpf. Ça ne m'étonne pas.~ // Bog
 @63 = ~Je savais qu'il n'y avait rien de mystérieux sur cette île. Nous aurions pu nous occuper de ces satanés trolls nous-même !~ // Ahmer
 @64 = ~À la tienne, Bog ! <PRO_RACE>, tiens, c'est pour toi. Je te paye un coup à boire. Après cette aventure, tu as bien mérité de picoler !~ // Ahmer
 @65 = ~Le Plan de l'Ombre ? T'es complètement givré, hein ?~ ~Le Plan de l'Ombre ? T'es complètement givrée, hein ?~ // Ahmer
@@ -75,7 +75,7 @@
 @72 = ~Ni l'un ni l'autre. Mais nous avons découvert un portail vers le Plan de l'Ombre, le sceller ne fut pas une mince affaire !~ // Charname
 @73 = ~J'ai affronté un dieu emprisonné et ses nombreux partisans !~ // Charname
 @74 = ~Bref, c'est une bonne nouvelle que tu aies rallumé le phare. On peut continuer à se rincer le gosier sereinement. À la tienne, Ahmer !~ // Bog
-@75 = ~Maudit <PRO_RACE>, il doit croire qu'il peut se foutre de notre gueule !~ ~Maudite <PRO_RACE>, elle doit croire qu'elle peut se foutre de notre gueule !~ // Bog
+@75 = ~Maudit <PRO_RACE>, il doit croire qu'il peut se foutre de notre gueule !~ ~Maudit <PRO_RACE>, elle doit croire qu'elle peut se foutre de notre gueule !~ // Bog
 @76 = ~Alors, Le magicien a fini par trouver quelqu'un d'assez stupide...~ // Ahmer
 @77 = ~Je n'aurais jamais cru que quelqu'un se porterait volontaire pour voguer vers cette île maudite...~ // Bog
 @78 = ~Moi non plus...~ // Ahmer

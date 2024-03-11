@@ -3,7 +3,7 @@
 @2 = ~Vous ! Vous êtes celui qui se trouvait au sommet de la tour !~ // Charname //  From @0 
 @3 = ~Je cherche à découvrir la cause de l'extinction du phare.~ // Charname // From @0 or @4 or @5
 @4 = ~Évidemment. Habituellement, la sorcière des mers et les trolls sont plus que suffisants pour éloigner de l'île les intrus et les aventuriers trop curieux. Mais dans votre cas, mon intervention s'est avérée nécessaire.~ ~Évidemment. Habituellement, la sorcière des mers et les trolls sont plus que suffisants pour éloigner de l'île les intrus et les aventurières trop curieuses. Mais dans votre cas, mon intervention s'est avérée nécessaire.~ // Blackseer Brokus // From @2
-@5 = ~Un être vivant a réussi à résister à l’envoûtement des sirènes, à échapper à l'estomac des trolls et à pénétrer dans la tour ! Quelles sont vos intentions ?~ // Blackseer Brokus // If NEVER talk from the top of the tower
+@5 = ~Un être vivant a réussi à résister à l'envoûtement des sirènes, à échapper à l'estomac des trolls et à pénétrer dans la tour ! Quelles sont vos intentions ?~ // Blackseer Brokus // If NEVER talk from the top of the tower
 @6 = ~Vous pourriez commencer par vous présenter !~ // Charname // From @5
 @7 = ~La cause ? Nous avons transformé cette flamme cristalline afin de servir un autre... objectif. Mais ceci n'est que le commencement ! Toute lueur sera anéantie. Êtes-vous prêts à courber l'échine devant L'Œil élémentaire ancestral, le Dieu enchaîné ?~ // Blackseer Brokus //  From @3
 @8 = ~Jamais entendu parler.~ // Charname //  From @7
