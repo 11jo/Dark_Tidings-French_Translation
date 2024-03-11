@@ -39,8 +39,8 @@
 @35 = ~Darius~ 
 @36 = ~Molly la ténébreuse~
 @37 = ~Myrmidon aquatique~ // Fantassin aquatique
-@38 = ~Élémentaire d'eau~
-@39 = ~Élémentaire d'eau mineur~
+@38 = ~Élémentaire d’eau~
+@39 = ~Élémentaire d’eau mineur~
 @40 = ~Vase d'huile~ // Oil Ooze, Gelée huileuse
 
 // spells
@@ -49,7 +49,7 @@
 @102 = ~Vision horrifique~ // Horrible sight
 @103 = ~Protection contre le bien~
 @104 = ~Effrayante apparition~ // Scary apparition, Apparition effrayante
-@105 = ~Regard de la mort qui tue~ // Deadly stare
+@105 = ~Regard mortel~ // Deadly stare
 @106 = ~Nuage de brouillard~ // Fog cloud
 @107 = ~Dissimulé dans la brume~ // Hidden in the mist
 @108 = ~Nuage de brouillard
@@ -62,7 +62,7 @@ Temps d'incantation : 2
 Zone d'effet : rayon de 4,5 mètres
 Jet de sauvegarde : Aucun
 
-Ce sort crée un brouillard dense formé d'une masse de vapeur non toxique aux volutes jaunâtres, elle n'est pas toxique mais obscurcie la vue. Les créatures présentes dans le brouillard sont aveuglées tant que celui-ci persiste. En outre, il y a 50 % de chances que les créatures se trouvant dans le brouillard deviennent indétectables et invisibles pendant un round.~
+Ce sort crée un brouillard dense formé d'une masse de vapeur non toxique aux volutes jaunâtres; elle n'est pas toxique mais obscurcie la vue. Les créatures présentes dans le brouillard sont aveuglées tant que celui-ci persiste. En outre, il y a 50 % de chances que les créatures se trouvant dans le brouillard deviennent indétectables et invisibles pendant un round.~
 @109 = ~Explosion~
 @110 = ~Aura obscure~ // Dark Aura
 @111 = ~Chant des sirènes~ // Siren Song
@@ -82,7 +82,7 @@ Jet de sauvegarde : Aucun
 Ce sortilège permet à la créature choisie d'être immunisée contre les poisons et les venins provoqués par contact avec la peau que ce soit par absorption, par piqûre, par morsure ou par l'intermédiaire d'une arme. Les toxines de nature différente continueront d'affecter la créature normalement et les poisons déjà actifs ne seront pas affectés.~
 
 // Script strings
-@1000 = ~La ville est en quête d'aventuriers capables et prêts à prendre la mer.~
+@1000 = ~La ville est en quête d'aventuriers compétents et prêts à prendre la mer.~
 @1001 = ~N'y a-t-il aucun aventurier dans cette taverne prêt à accomplir une mission pour notre ville ?~
 @1002 = ~Utilise un objet~ // Uses an item
 @1003 = ~Contrôle de l'ombre~ // Shadow control
@@ -92,7 +92,7 @@ Ce sortilège permet à la créature choisie d'être immunisée contre les poisons et
 @1007 = ~Le tonneau est pratiquement vide. Il est impossible de l'utiliser pour allumer le signal. Cependant, cette huile inflammable peut toujours être utile au cours d'un combat. Vous pouvez la transvaser dans une fiole et l'emporter avec vous, si vous le souhaitez.~
 @1008 = ~Cette substance est composée d'ombres et se désagrège entre vos mains.~ [EFF_E03]
 @1009 = ~La pierre semble s'imbriquer parfaitement.~ // See ACDT21.tra
-@1010 = ~Cette partie du mur comporte un symbole étrange qui semble se déplacer légèrement. À l'œil nu, il est cependant difficile de se focaliser dessus.~
+@1010 = ~Cette partie du mur comporte un symbole étrange qui semble légèrement se déplacer. À l'œil nu il est difficile de se focaliser dessus.~
 
 @1011 = ~Ombre de <PLAYER1>~
 @1012 = ~Ombre de <PLAYER2>~
@@ -127,7 +127,7 @@ Ce sortilège permet à la créature choisie d'être immunisée contre les poisons et
 Le premier voulait dévorer tout ce qui existe.
 Pour l'éradiquer, il façonna le second, mais sans parvenir à lui donner forme. 
 Il enfanta donc une troisième fois, mais l'être fut incapable de se mouvoir. 
-Enfin, il donna naissance au quatrième, mais celui-ci se volatilisa  dans le néant. 
+Enfin, il donna naissance au quatrième, mais celui-ci se volatilisa dans le néant. 
 Alors le Sombre Seigneur réalisa l'imperfection de toutes choses et se promit de restaurer la création à son état d'origine... Les ténèbres. »~
 @1032 = ~La pierre runique a tellement été endommagée par l'explosion d'énergie magique que son inscription est désormais indéchiffrable.~
 
@@ -144,7 +144,7 @@ Alors le Sombre Seigneur réalisa l'imperfection de toutes choses et se promit de
 // Water Sigil Tigger
 @1050 = ~Un glyphe bizarre est gravé sur cette pierre. Elle semble très humide. Vous avez l'impression qu'il suffirait de toucher le glyphe pour en changer l'état.~
 @1051 = ~Lorsque vous touchez le glyphe, une brise humide traverse la pièce. Il semble que vous deviez toucher les pierres dans un certain ordre... Et vous avez fait le mauvais choix....~
-@1052 = ~Vous touchez prudemment le glyphe. L'eau qui imprégnait la pierre runique se tarit. Le glyphe semble désactivé.~
+@1052 = ~Vous touchez prudemment le glyphe. L'eau qui imprégnait la pierre runique s'évapore. Le glyphe semble désactivé.~
 @1053 = ~La pierre runique est sèche et semble ne plus avoir de fonction.~
 
 // Earth Sigil Trigger
