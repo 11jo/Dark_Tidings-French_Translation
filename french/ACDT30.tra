@@ -2,7 +2,7 @@
 
 @0 = ~Le rituel n'est pas encore achevé... Autrement, les liens entre les mondes seraient déjà scellés...~
 @1 = ~Vous avez le Cristal de lumière !~
-@2 = ~Vous n'êtes pas de ce monde... Vous venez des contrées lumineuses... Je... ne vous avais pas encore rencontré, vous n’étiez jamais venu au phare...~
+@2 = ~Vous n'êtes pas de ce monde... Vous venez des contrées lumineuses... Je... ne vous avais pas encore rencontré, vous n'étiez jamais venu au phare...~
 @3 = ~Qui êtes-vous ?~ // Charname
 @4 = ~Ainsi, nous nous rencontrons à nouveau... Sur ce plan envahi par les ténèbres... Sur l'île de la lumière, je t'ai demandé de me rejoindre, et tu es venu...~
 @5 = ~Je suis le dernier gardien du phare... condamné à attendre que l'obscurité se dissipe...~
@@ -96,7 +96,7 @@
 @87 = ~J'ai bien peur de l'avoir oublié...~ // Charname
 @88 = ~« Par delà les ombres et la mort, je n'aurai de répit tant que la justice n'aura pas été rendue ».~ // Charname
 @89 = ~« La lumière doit être étouffée, la perfection doit être abolie, l'ordre doit être anéanti et l'esprit... L'esprit doit être brisé ».~ // Charname
-@90 = ~« La nuit est sombre et emplie de terreurs. »~ // Charname /« La nuit est sombre et emplie d’effroi. »/« La nuit est sombre et effrayante. »
+@90 = ~« La nuit est sombre et emplie de terreurs. »~ // Charname /« La nuit est sombre et emplie d'effroi. »/« La nuit est sombre et effrayante. »
 @91 = ~« Que notre histoire ne connaisse pas de fin, que notre serment soit éternel, comme la nuit. »~ // Charname
 @92 = ~« Dans la nuit noire et obscure. Obscure et sombre. Je fais le serment de protéger les ténèbres. »~ // Charname
 @93 = ~Je ne suis pas venu pour sermonner avec vous. Je suis venu pour vous tuer !~ ~Je ne suis pas venue pour sermonner avec vous. Je suis venue pour vous tuer !~  // Charname
@@ -117,7 +117,7 @@
 @108 = ~Vergol est notre chef, le premier des croyants. C'est le membre le plus éminent de notre ordre, le « Songeur du Destin » ! Tu devrais le savoir, prophète du malheur.~ ~Vergol est notre chef, le premier des croyants. C'est le membre le plus éminent de notre ordre, le « Songeur du Destin » ! Tu devrais le savoir, prophétesse du malheur.~
 @109 = ~Comment pourrais-tu ne pas le savoir ? Le temple est dédié à Tharizdun notre Seigneur... Attends un instant...~
 @110 = ~Descends vers l'est. En ce lieu les créatures de l'ombre ne s'attaquent pas aux véritables croyants.~
-@111 = ~Hâtes-toi jusqu'au temple. La cérémonie n’avance pas aussi vite que le souhaite Vergol. Il lui faut davantage de victimes, alors fais attention à ne pas te retrouver toi-même sur l'autel. Vas ! Les créatures de l'ombre ne s'attaquent pas aux véritables croyants, mais elles se délectent des imposteurs.~
+@111 = ~Hâtes-toi jusqu'au temple. La cérémonie n'avance pas aussi vite que le souhaite Vergol. Il lui faut davantage de victimes, alors fais attention à ne pas te retrouver toi-même sur l'autel. Vas ! Les créatures de l'ombre ne s'attaquent pas aux véritables croyants, mais elles se délectent des imposteurs.~
 @112 = ~Alors, à la revoyure...~ // Charname
 @113 = ~Quel est ce serment ridicule ? C'est l'oeuvre d'un imbécile.~ ~Quel est ce serment ridicule ? C'est l'oeuvre d'une imbécile.~
 @114 = ~Bonne chance, mon frère.~ ~Bonne chance, ma sœur.~
