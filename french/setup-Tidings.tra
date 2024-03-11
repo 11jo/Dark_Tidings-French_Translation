@@ -137,43 +137,43 @@ Alors le Sombre Seigneur réalisa l'imperfection de toutes choses et se promit de
 @1037 = ~L'aura de cette pierre si singulière demeure des plus inquiétantes.~ 
 
 /// Fire Sigil Tigger
-@1040 = ~Un glyphe bizarre est attaché à cette pierre. Il dégage une forte chaleur. Vous avez l'impression que vous pouvez toucher le glyphe pour en changer l'état.~
-@1041 = ~Vous touchez prudemment le glyphe. Une chaleur brûlante vous traverse, puis la pierre runique s'éteint et se refroidit.~
+@1040 = ~Un glyphe bizarre est gravé sur cette pierre. Elle dégage une forte chaleur. Vous avez l'impression qu'il suffirait de toucher le glyphe pour en changer l'état.~
+@1041 = ~Vous touchez prudemment le glyphe. Une chaleur brûlante vous traverse, puis la rune s'éteint et la pierre se refroidit.~
 @1042 = ~La pierre runique est froide et semble ne plus avoir de fonction.~
 
 // Water Sigil Tigger
-@1050 = ~Un glyphe bizarre est attaché à cette pierre. Il semble très humide. Vous avez l'impression que vous pouvez toucher le glyphe pour en changer l'état.~
-@1051 = ~Lorsque vous touchez le glyphe, une brise humide traverse la pièce. Il semble que vous deviez toucher les signes dans un certain ordre - et vous avez fait le mauvais choix....~
-@1052 = ~Vous touchez prudemment le glyphe. L'eau qui imprégnait la pierre runique disparaît. Vous semblez avoir désactivé le glyphe.~
+@1050 = ~Un glyphe bizarre est gravé sur cette pierre. Elle semble très humide. Vous avez l'impression qu'il suffirait de toucher le glyphe pour en changer l'état.~
+@1051 = ~Lorsque vous touchez le glyphe, une brise humide traverse la pièce. Il semble que vous deviez toucher les pierres dans un certain ordre... Et vous avez fait le mauvais choix....~
+@1052 = ~Vous touchez prudemment le glyphe. L'eau qui imprégnait la pierre runique se tarit. Le glyphe semble désactivé.~
 @1053 = ~La pierre runique est sèche et semble ne plus avoir de fonction.~
 
 // Earth Sigil Trigger
-@1060 = ~Un glyphe en forme de spirale dentelée est gravé sur cette pierre. Elle est recouverte de boue étonnamment brillante. Vous avez l'impression que vous pouvez toucher le glyphe pour en changer l'état.~
-@1061 = ~Lorsque vous touchez le glyphe, une forte vibration se répand dans la pièce. Il semble que vous deviez toucher les signes dans un certain ordre - et vous avez fait le mauvais choix....~
-@1062 = ~Vous touchez prudemment le glyphe. La boue qui recouvrait la pierre runique disparaît. Vous semblez avoir désactivé le glyphe.~
+@1060 = ~Un glyphe en forme de spirale dentelée est gravé sur cette pierre. Elle est recouverte d'une boue étonnamment brillante. Vous avez l'impression qu'il suffirait de toucher le glyphe pour en changer l'état.~
+@1061 = ~Lorsque vous touchez le glyphe, une forte vibration se répand dans la pièce. Il semble que vous deviez toucher les pierres dans un certain ordre... Et vous avez fait le mauvais choix....~
+@1062 = ~Vous touchez prudemment le glyphe. La boue qui recouvrait la pierre runique disparaît. Le glyphe semble désactivé.~
 @1063 = ~La pierre runique est propre et ne semble plus avoir de fonction.~
 
 // Air Sigil Trigger
-@1070 = ~Un glyphe en forme de spirale dentelée est gravé sur cette pierre. . Vous avez l'impression que vous pouvez toucher le glyphe pour en changer l'état.~
-@1071 = ~Lorsque vous touchez le glyphes, des gaz toxiques jaunâtres jaillissent du sol. Il semble que vous deviez toucher les signes dans un certain ordre - et vous avez fait le mauvais choix...~
-@1072 = ~Vous touchez prudemment le glyphe. Vous semblez avoir désactivé le glyphe.~
+@1070 = ~Un glyphe en forme de spirale dentelée est gravé sur cette pierre. Vous avez l'impression qu'il suffirait de toucher le glyphe pour en changer l'état.~
+@1071 = ~Lorsque vous touchez le glyphes, des gaz toxiques jaunâtres jaillissent du sol. Il semble que vous deviez toucher les pierres dans un certain ordre... Et vous avez fait le mauvais choix...~
+@1072 = ~Vous touchez prudemment le glyphe. Le glyphe semble désactivé.~
 @1073 = ~La pierre runique est inactive et ne semble plus avoir de fonction.~
 
 // Ritual in Area ACDT22
-@1080 = ~Vous avez lancé le premier sort du rituel.~
-@1081 = ~Vous avez lancé le deuxième sort du rituel.~
-@1082 = ~Vous avez lancé le troisième sort du rituel.~
+@1080 = ~Vous avez accompli le premier sort du rituel.~
+@1081 = ~Vous avez accompli le deuxième sort du rituel.~
+@1082 = ~Vous avez accompli le troisième sort du rituel.~
 
-@1085 = ~La magie que vous avez lancée se décharge avec une explosion et la pierre se brise en mille morceaux. Soudain, le silence se fait. La chambre semble beaucoup plus lumineuse à présent.~
+@1085 = ~La magie que vous avez lancée se décharge dans une explosion et la pierre se brise en mille morceaux. Soudain, le silence se fait. La chambre semble beaucoup plus lumineuse à présent.~
 
 // Crystal chamber ACDT13
 
-@1090 = ~Vous repérez un socle au milieu de cet appareil à cristal, mais il est vide. Il est probable qu'un objet doive y être inséré pour activer la balise.~
+@1090 = ~Vous repérez un socle vide au milieu de cet appareillage destiné au cristal. Il est probable qu'un objet doive y être inséré pour activer la balise.~
 @1091 = ~Aucun des objets de votre inventaire ne semble convenir pour allumer la balise.~
-@1092 = ~Vous placez le Cristal de lumière sur le socle, et à travers les différentes coupures, la lumière est réfléchie mille fois et projetée vers le haut, à l'air libre. Le grand cristal au sommet du toit devrait maintenant briller à nouveau d'une lumière éclatante visible de loin.~
+@1092 = ~Vous placez le Cristal de lumière sur le socle, à travers les nombreux interstices la lumière est réfléchie mille fois avant d'être projetée vers le haut, illuminant le ciel. La lumière éclatante du cristal au sommet du toit devrait être visible de très loin.~
 @1093 = ~Si vous remettez le cristal sur son socle, vous ne pourrez plus le retirer. Réfléchissez bien à ce que vous allez faire.~
 
-@1098 = ~D'épaisses masses de ténèbres vous bloquent la vue. Si la sortie se trouve quelque part là, vous ne pouvez pas la voir pour le moment.~
+@1098 = ~D'épaisses nappes de ténèbres vous bloquent la vue. Si la sortie se trouve à proximité, vous ne pouvez pas la discerner pour le moment.~
 
 //cutscene in ACDT01
 @1100 = ~Regardez ! Une enfant !~
@@ -182,7 +182,7 @@ Alors le Sombre Seigneur réalisa l'imperfection de toutes choses et se promit de
 
 // Oil barrels in ACDT15
 
-@1504 = ~Ce tonneau contient de l'huile inflammable. Il était apparemment utilisé dans le passé pour alimenter le signal du phare. Vous pouvez l'examiner de plus près si vous le souhaitez.~
+@1504 = ~Ce tonneau contient de l'huile inflammable. Il était apparemment utilisé par le passé pour alimenter le signal du phare. Vous pouvez l'examiner de plus près si vous le souhaitez.~
 @1505 = ~Vous mettez un peu d'huile dans une fiole.~
 @1506 = ~Le tonneau est désormais complètement vide.~
 @1507 = ~Le tonneau est pratiquement vide. Il est impossible de l'utiliser pour allumer le signal. Cependant, cette huile inflammable peut toujours être utile au cours d'un combat.~

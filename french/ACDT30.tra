@@ -34,7 +34,7 @@
 @31 = ~Bonne nouvelle.~
 @32 = ~Vous devrez lancer trois sorts pour parfaire le rituel... Il fut un temps où j'étais moi-même un magicien...~
 @33 = ~L'un des parchemins est en ma possession... Il vous sera utile... Tenez.~
-@34 = ~Accomplissez le rituel et refermez les failles qui obscurcissent le monde de la lumière !~
+@34 = ~Accomplissez le rituel et refermez les failles qui obscurcissent le monde !~
 @35 = ~Le Cristal de lumière ne sera-t-il pas détruit par le rituel ?~ // Charname
 @36 = ~Je vais réfléchir à tout ça !~ // Charname
 @37 = ~À vrai dire, je me sens plutôt à l'aise dans l'obscurité.~ // Charname
@@ -130,7 +130,7 @@
 @120 = ~Il fait tellement sombre ici.~ // Charname
 @121 = ~Comment le saurais-je ? Je viens juste de franchir ce portail !~ // Charname
 @122 = ~Tu n'es certainement pas l'un des élus, autrement tu reconnaîtrais le plan de l'Ombre et le futur domaine du dieu enchaîné !~ ~Tu n'es certainement pas l'une des élues, autrement tu reconnaîtrais le plan de l'ombre et le futur domaine du dieu enchaîné !~
-@123 = ~Le plan de l'ombre ?~ // Charname
+@123 = ~Le plan de l'Ombre ?~ // Charname
 @124 = ~Pas très accueillant comme endroit.~ // Charname
 @125 = ~Bientôt, tous les plans d'existence baigneront dans la même obscurité !~
 @126 = ~Et quel est votre rôle dans tout ça ?~ // Charname
